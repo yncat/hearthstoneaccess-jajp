@@ -48,56 +48,56 @@ ACCESSIBILITY_GLOBAL_KEYWORD_CURSED	呪い
 
 ACCESSIBILITY_GLOBAL_ACCESSIBILITY_ON	アクセシビリティ オン	Read when F8 is pressed and accessibility is turned on
 ACCESSIBILITY_GLOBAL_ACCESSIBILITY_OFF	アクセシビリティ オフ	Read when F8 is pressed and accessibility is turned off
-ACCESSIBILITY_GLOBAL_STREAMER_MODE_ON	Streamer mode on	Read when Ctrl+Shift+S is pressed and streamer mode is turned on
-ACCESSIBILITY_GLOBAL_STREAMER_MODE_OFF	Streamer mode off	Read when Ctrl+Shift+S is pressed and streamer mode is turned off
+ACCESSIBILITY_GLOBAL_STREAMER_MODE_ON	ストリーマーモード オン	Read when Ctrl+Shift+S is pressed and streamer mode is turned on
+ACCESSIBILITY_GLOBAL_STREAMER_MODE_OFF	ストリーマーモード オフ	Read when Ctrl+Shift+S is pressed and streamer mode is turned off
 
-ACCESSIBILITY_FORMATTING_PERIOD	.	
-ACCESSIBILITY_FORMATTING_SENTENCE_ENDING_CHARACTERS	.!?;	
-ACCESSIBILITY_FORMATTING_LIST_SEPARATOR	,	e.g. the ", " in A, B, C, D and E
-ACCESSIBILITY_FORMATTING_LIST_FINAL_SEPARATOR	and	e.g. the " and " in A, B, C, D and E
+ACCESSIBILITY_FORMATTING_PERIOD	。	
+ACCESSIBILITY_FORMATTING_SENTENCE_ENDING_CHARACTERS	。！？;	
+ACCESSIBILITY_FORMATTING_LIST_SEPARATOR	、	e.g. the ", " in A, B, C, D and E
+ACCESSIBILITY_FORMATTING_LIST_FINAL_SEPARATOR	そして	e.g. the " and " in A, B, C, D and E
 
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_1	first	Languages with grammatical genders can work around using digits and configure text that uses ordinal numbers such as "minion number 1" instead of "first minion"
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_2	second	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_3	third	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_4	fourth	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_5	fifth	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_6	sixth	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_7	seventh	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_8	eighth	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_9	ninth	
-ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_10	tenth	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_1	1番目の	Languages with grammatical genders can work around using digits and configure text that uses ordinal numbers such as "minion number 1" instead of "first minion"
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_2	2番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_3	3番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_4	4番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_5	5番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_6	6番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_7	7番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_8	8番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_9	9番目の	
+ACCESSIBILITY_FORMATTING_ORDINAL_NUMBER_10	10番目の	
 
 ACCESSIBILITY_INPUT_COMMAND_WITH_MODIFIER_FORMAT	Shift + {0}	0=key e.g. Shift + F
 ACCESSIBILITY_INPUT_COMMAND_WITH_CTRL_FORMAT	Ctrl + {0}	0=key e.g. Ctrl + F
 
-ACCESSIBILITY_READ_CARD_COST	{0} mana	0=card cost
+ACCESSIBILITY_READ_CARD_COST	{0} マナ	0=card cost
 ACCESSIBILITY_READ_CARD_ATK_HEALTH	{0} {1}	0=attack 1=health e.g. 3 2
 ACCESSIBILITY_READ_CARD_ATK_DURABILITY	{0} {1}	0=attack 1=durability e.g. 1 3
-ACCESSIBILITY_READ_HERO_CARD_ATK	{0} attack	0=attack
-ACCESSIBILITY_READ_HERO_CARD_HEALTH	{0} health	0=health
-ACCESSIBILITY_READ_HERO_CARD_ARMOR	{0} armor	0=armor
-ACCESSIBILITY_READ_CARD_N_COPIES	{0} copies	0=number of copies
-ACCESSIBILITY_READ_COLLECTION_CARD_NAME_GOLDEN	{0} - golden edition	0=card name e.g. {fireball} - golden edition
-ACCESSIBILITY_READ_COLLECTION_CARD_NAME_DIAMOND	{0} - diamond edition	0=card name
+ACCESSIBILITY_READ_HERO_CARD_ATK	{0} 攻撃力	0=attack
+ACCESSIBILITY_READ_HERO_CARD_HEALTH	{0} 体力	0=health
+ACCESSIBILITY_READ_HERO_CARD_ARMOR	{0} 装甲	0=armor
+ACCESSIBILITY_READ_CARD_N_COPIES	{0} 枚のコピー	0=number of copies
+ACCESSIBILITY_READ_COLLECTION_CARD_NAME_GOLDEN	{0} - ゴールデン・エディション	0=card name e.g. {fireball} - golden edition
+ACCESSIBILITY_READ_COLLECTION_CARD_NAME_DIAMOND	{0} - ダイヤモンド・エディション	0=card name
 
-ACCESSIBILITY_GAMEPLAY_OPPONENT_TURN	Opponent's turn	
-ACCESSIBILITY_GAMEPLAY_TURN_ENDED	Turn ended	
-ACCESSIBILITY_GAMEPLAY_CARD_IN_ZONE_TRIGGERED	{0} triggered	0=full card name in zone e.g. {Your second Murloc Raider} triggered
-ACCESSIBILITY_GAMEPLAY_PLAYER_CARD_TRIGGERED	Your {0} triggered	0=card name e.g. Your {Psyfiend} triggered
-ACCESSIBILITY_GAMEPLAY_OPPONENT_CARD_TRIGGERED	Your opponent's {0} triggered	0=card name e.g. Your opponent's {Psyfiend} triggered
-ACCESSIBILITY_GAMEPLAY_OPPONENT_CARD_TRIGGERED_BIG_CARD	Your opponent's {0} triggered; {1}	0=card name 1=cardText e.g. Your opponent's {Psyfiend} triggered; {After you cast a Shadow spell, deal 2 damage to each Hero.}
-ACCESSIBILITY_GAMEPLAY_PLAYER_PLAYED_CARD	You played {0}	0=card name e.g. You played {Fireball}
-ACCESSIBILITY_GAMEPLAY_PLAYER_PLAYED_CARD_BIG_CARD	You played {0}; {1}	0=card name 1=card text e.g. You played {Fireball}; {Deal 6 damage.}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_PLAYED_CARD	Your opponent played {0}	0=card name e.g. Your opponent played {Fireball}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_PLAYED_CARD_BIG_CARD	Your opponent played {0}; {1}	0=card name 1=card text e.g. Your opponent played {Fireball}; {Deal 6 damage.}
-ACCESSIBILITY_GAMEPLAY_PLAYER_SUMMONED_MINION	You summoned {0}	0=minion name e.g. You summoned {Raid Leader}
-ACCESSIBILITY_GAMEPLAY_PLAYER_SUMMONED_MINION_BIG_CARD	You summoned {0}; {1} {2} {3}	0=minion name 1=attack 2=health 3=card text e.g. You summoned {Raid Leader}; {2} {3} {Your other minions have +1 Attack.}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_SUMMONED_MINION	Your opponent summoned {0}	0=minion name e.g. Your opponent summoned {Raid Leader}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_SUMMONED_MINION_BIG_CARD	Your opponent summoned {0}; {1} {2} {3}	0=minion name 1=attack 2=health 3=card text e.g. Your opponent summoned {Raid Leader}; {2} {3} {Your other minions have +1 Attack.}
-ACCESSIBILITY_GAMEPLAY_PLAYER_TRADED_CARD	You traded {0}	0=card name e.g. You traded {Fire Sale}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_TRADED_CARD	Your opponent traded {0}	0=card name e.g. Your opponent traded {Fire Sale}
-ACCESSIBILITY_GAMEPLAY_PLAYER_EQUIPPED_WEAPON	You equipped {0}	0=weapon name e.g. You equipped {Aldrachi Warblades}
-ACCESSIBILITY_GAMEPLAY_PLAYER_EQUIPPED_WEAPON_BIG_CARD	You equipped {0}; {1} {2} {3}	0=weapon name 1=attack 2=durability 3=card text e.g. You equipped {Aldrachi Warblades}; {2} {2} {Lifesteal}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_TURN	相手のターン	
+ACCESSIBILITY_GAMEPLAY_TURN_ENDED	ターン終了	
+ACCESSIBILITY_GAMEPLAY_CARD_IN_ZONE_TRIGGERED	{0} が発動	0=full card name in zone e.g. {Your second Murloc Raider} triggered
+ACCESSIBILITY_GAMEPLAY_PLAYER_CARD_TRIGGERED	自分の {0} が発動	0=card name e.g. Your {Psyfiend} triggered
+ACCESSIBILITY_GAMEPLAY_OPPONENT_CARD_TRIGGERED	相手の {0} が発動	0=card name e.g. Your opponent's {Psyfiend} triggered
+ACCESSIBILITY_GAMEPLAY_OPPONENT_CARD_TRIGGERED_BIG_CARD	相手の {0} が発動; {1}	0=card name 1=cardText e.g. Your opponent's {Psyfiend} triggered; {After you cast a Shadow spell, deal 2 damage to each Hero.}
+ACCESSIBILITY_GAMEPLAY_PLAYER_PLAYED_CARD	{0} をプレイ	0=card name e.g. You played {Fireball}
+ACCESSIBILITY_GAMEPLAY_PLAYER_PLAYED_CARD_BIG_CARD	{0} をプレイ; {1}	0=card name 1=card text e.g. You played {Fireball}; {Deal 6 damage.}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_PLAYED_CARD	相手は {0} をプレイ	0=card name e.g. Your opponent played {Fireball}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_PLAYED_CARD_BIG_CARD	相手は {0} をプレイ; {1}	0=card name 1=card text e.g. Your opponent played {Fireball}; {Deal 6 damage.}
+ACCESSIBILITY_GAMEPLAY_PLAYER_SUMMONED_MINION	{0} を召喚	0=minion name e.g. You summoned {Raid Leader}
+ACCESSIBILITY_GAMEPLAY_PLAYER_SUMMONED_MINION_BIG_CARD	{0} を召喚; {1} {2} {3}	0=minion name 1=attack 2=health 3=card text e.g. You summoned {Raid Leader}; {2} {3} {Your other minions have +1 Attack.}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_SUMMONED_MINION	相手は {0} を召喚	0=minion name e.g. Your opponent summoned {Raid Leader}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_SUMMONED_MINION_BIG_CARD	相手は {0} を召喚; {1} {2} {3}	0=minion name 1=attack 2=health 3=card text e.g. Your opponent summoned {Raid Leader}; {2} {3} {Your other minions have +1 Attack.}
+ACCESSIBILITY_GAMEPLAY_PLAYER_TRADED_CARD	{0} をトレード	0=card name e.g. You traded {Fire Sale}
+ACCESSIBILITY_GAMEPLAY_OPPONENT_TRADED_CARD	相手は {0} をトレード	0=card name e.g. Your opponent traded {Fire Sale}
+ACCESSIBILITY_GAMEPLAY_PLAYER_EQUIPPED_WEAPON	{0} を装備	0=weapon name e.g. You equipped {Aldrachi Warblades}
+ACCESSIBILITY_GAMEPLAY_PLAYER_EQUIPPED_WEAPON_BIG_CARD	{0} を装備; {1} {2} {3}	0=weapon name 1=attack 2=durability 3=card text e.g. You equipped {Aldrachi Warblades}; {2} {2} {Lifesteal}
 ACCESSIBILITY_GAMEPLAY_OPPONENT_EQUIPPED_WEAPON	Your opponent equipped {0}	0=weapon name e.g. Your opponent equipped {Aldrachi Warblades}
 ACCESSIBILITY_GAMEPLAY_OPPONENT_EQUIPPED_WEAPON_BIG_CARD	Your opponent equipped {0}; {1} {2} {3}	0=weapon name 1=attack 2=durability 3=card text e.g. Your opponent equipped {Aldrachi Warblades}; {2} {2} {Lifesteal}
 ACCESSIBILITY_GAMEPLAY_PLAYER_USED_HERO_POWER	You used {0}	0=hero power name e.g. You used {Fireblast}
