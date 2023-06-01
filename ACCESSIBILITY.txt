@@ -1,53 +1,53 @@
 TAG	TEXT	COMMENT
-ACCESSIBILITY_WELCOME_TO_HEARTHSTONE	Welcome to Hearthstone	
+ACCESSIBILITY_WELCOME_TO_HEARTHSTONE	Hearthstoneへようこそ	
 
-ACCESSIBILITY_PRESS_KEY_TO_START	Press {0} to start	0=key e.g. Press Enter to start
-ACCESSIBILITY_PRESS_KEY_TO_CONTINUE	Press {0} to continue	0=key e.g. Press Enter to continue
-ACCESSIBILITY_PRESS_KEY_TO_FINISH	Press {0} to finish	0=key e.g. Press Enter to finish
-ACCESSIBILITY_PRESS_KEY_TO_GO_BACK	Press {0} to go back	0=key e.g. Press backspace to go back
-ACCESSIBILITY_PRESS_KEY_TO_EXIT	Press {0} to exit	0=key e.g. Press Enter to exit
-ACCESSIBILITY_PRESS_KEY_ONCE_DONE	Press {0} once you're done	0=key e.g. Press Enter once you're done
+ACCESSIBILITY_PRESS_KEY_TO_START	{0} を押してスタート	0=key e.g. Press Enter to start
+ACCESSIBILITY_PRESS_KEY_TO_CONTINUE	{0} を押して続ける	0=key e.g. Press Enter to continue
+ACCESSIBILITY_PRESS_KEY_TO_FINISH	{0} を押して完了	0=key e.g. Press Enter to finish
+ACCESSIBILITY_PRESS_KEY_TO_GO_BACK	{0} を押して戻る	0=key e.g. Press backspace to go back
+ACCESSIBILITY_PRESS_KEY_TO_EXIT	{0} を押して終了	0=key e.g. Press Enter to exit
+ACCESSIBILITY_PRESS_KEY_ONCE_DONE	完了したら {0} を押してください	0=key e.g. Press Enter once you're done
 
-ACCESSIBILITY_MENU_HELP_NO_BACK_BUTTON	Use the up and down arrow keys to navigate the menu. Press {0} to select an option	0=Enter key
-ACCESSIBILITY_MENU_HELP_WITH_BACK_BUTTON	Use the up and down arrow keys to navigate the menu. Press {0} to select an option. Press {1} to go back	0=Enter key 1=Backspace key
-ACCESSIBILITY_MENU_HORIZONTAL_HELP_NO_BACK_BUTTON	Use the left and right arrow keys to navigate the menu. Use the up and down arrow keys to read the options. Press {0} to select an option	0=Enter key
-ACCESSIBILITY_MENU_HORIZONTAL_HELP_WITH_BACK_BUTTON	Use the left and right arrow keys to navigate the menu. Use the up and down arrow keys to read the options. Press {0} to select an option. Press {1} to go back	0=Enter key 1=Backspace key
-ACCESSIBILITY_MENU_OPTION_FORMAT	{0} {1} of {2}	0=option name 1=option number 2=options count e.g. Options 1 of 2
-ACCESSIBILITY_LIST_NO_ITEMS	No items	
+ACCESSIBILITY_MENU_HELP_NO_BACK_BUTTON	上下の矢印キーを使用してメニュー項目を移動します。 {0} を押して決定します	0=Enter key
+ACCESSIBILITY_MENU_HELP_WITH_BACK_BUTTON	上下の矢印キーを使用してメニュー項目を移動します。  {0} を押して決定します。 {1} を押して戻ります	0=Enter key 1=Backspace key
+ACCESSIBILITY_MENU_HORIZONTAL_HELP_NO_BACK_BUTTON	左右の矢印キーを使用してメニュー項目を移動します。 上下の矢印キーを使用してオプションを読みます。 {0} を押してオプションを決定します	0=Enter key
+ACCESSIBILITY_MENU_HORIZONTAL_HELP_WITH_BACK_BUTTON	左右の矢印キーを使用してメニュー項目を移動します。 上下の矢印キーを使用してオプションを読みます。 {0} を押してオプションを決定します。 {1} を押して戻ります	0=Enter key 1=Backspace key
+ACCESSIBILITY_MENU_OPTION_FORMAT	{0} {1}の{2}	0=option name 1=option number 2=options count e.g. Options 1 of 2
+ACCESSIBILITY_LIST_NO_ITEMS	項目なし	
 
-ACCESSIBILITY_OPTIONS_MENU_TITLE	Options Menu	
-ACCESSIBILITY_OPTIONS_MENU_GRAPHICS_QUALITY_OPTION	Graphics quality	
-ACCESSIBILITY_OPTIONS_MENU_GRAPHICS_RESOLUTION_OPTION	Graphics resolution	
-ACCESSIBILITY_OPTIONS_MENU_ADJUST_VOLUME	Use the left and right arrow keys to adjust the volume	
-ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_LABEL	{0} checkbox	0=checkbox name e.g. {Fullscreen} checkbox
-ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_CHECKED	Checked	
-ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_NOT_CHECKED	Not checked	
-ACCESSIBILITY_HUB_MAIN_MENU_TITLE	Main Menu	
-ACCESSIBILITY_HUB_MAIN_MENU_OPTION_GAME_MENU	Press {0} at any time to open the game menu. Try it now!	0=Esc key
-ACCESSIBILITY_HUB_MAIN_MENU_OPTION_SOCIAL_MENU	Press {0} at any time to open the social menu. Try it now!	0=F4 key
-ACCESSIBILITY_HUB_MAIN_MENU_OPTION_HELP	Press {0} at any time if you're feeling lost. If you need help from a sighted person, you can always press {1} to disable accessibility and allow them to control the game using the mouse as normal. Just remember to press {1} once they're done to reactivate accessibility	0=Esc key 1=F8 key
+ACCESSIBILITY_OPTIONS_MENU_TITLE	オプションメニュー	
+ACCESSIBILITY_OPTIONS_MENU_GRAPHICS_QUALITY_OPTION	画質	
+ACCESSIBILITY_OPTIONS_MENU_GRAPHICS_RESOLUTION_OPTION	解像度	
+ACCESSIBILITY_OPTIONS_MENU_ADJUST_VOLUME	左右の矢印キーを使用して音量を調整します	
+ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_LABEL	{0} チェックボックス	0=checkbox name e.g. {Fullscreen} checkbox
+ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_CHECKED	チェック	
+ACCESSIBILITY_OPTIONS_MENU_CHECKBOX_NOT_CHECKED	チェックなし	
+ACCESSIBILITY_HUB_MAIN_MENU_TITLE	メインメニュー	
+ACCESSIBILITY_HUB_MAIN_MENU_OPTION_GAME_MENU	いつでも {0} を押せばゲームメニューが開きます。 ここで試してみましょう！	0=Esc key
+ACCESSIBILITY_HUB_MAIN_MENU_OPTION_SOCIAL_MENU	いつでも {0} を押せばソーシャルメニューが開きます。ここで試してみましょう！	0=F4 key
+ACCESSIBILITY_HUB_MAIN_MENU_OPTION_HELP	迷ったときは、いつでも {0} を押してください。 視力によるサポートが必要になったら、いつでも {1} を押すことでアクセシビリティを無効にして、通常通りのマウス操作が可能になります。 終わったら、 {1} を押してアクセシビリティを再度有効にしてください	0=Esc key 1=F8 key
 
-ACCESSIBILITY_GLOBAL_LOADING_GAME	Loading game	
-ACCESSIBILITY_GLOBAL_CLOSING_GAME	Closing game	
-ACCESSIBILITY_GLOBAL_GAME_LOADED	Game loaded	
-ACCESSIBILITY_GLOBAL_LOADING	Loading	
-ACCESSIBILITY_GLOBAL_PLEASE_WAIT	Please wait	
-ACCESSIBILITY_GLOBAL_CARD	card	
-ACCESSIBILITY_GLOBAL_CARD_PLURAL	cards	
-ACCESSIBILITY_GLOBAL_HERO	Hero	
-ACCESSIBILITY_GLOBAL_HERO_POWER	Hero Power	
-ACCESSIBILITY_GLOBAL_SECRET	{0} secret	0=secret class e.g. {Mage} secret
-ACCESSIBILITY_GLOBAL_GAME_SPEED	Game speed {0}	0=current game speed
-ACCESSIBILITY_GLOBAL_GAME_SPEED_CANNOT_ADJUST_VS_PLAYERS	You cannot adjust the game speed when playing against Human opponents	
-ACCESSIBILITY_GLOBAL_NEW_HEARTHSTONE_ACCESS_VERSION_AVAILABLE	A new version of Hearthstone Access is available. Please run the patcher again whenever possible as it may contain bug fixes	
-ACCESSIBILITY_GLOBAL_CANNOT_DO_THAT	You cannot do that	
-ACCESSIBILITY_GLOBAL_SWITCH_FORMAT	Switch format	Used as a menu option for switching between standard, wild and classic
-ACCESSIBILITY_GLOBAL_CHOOSE_FORMAT	Choose a format	Used as a menu title for choosing standard, wild or classic
+ACCESSIBILITY_GLOBAL_LOADING_GAME	ゲームを読み込み中	
+ACCESSIBILITY_GLOBAL_CLOSING_GAME	ゲームを終了しています	
+ACCESSIBILITY_GLOBAL_GAME_LOADED	ゲームを読み込みました	
+ACCESSIBILITY_GLOBAL_LOADING	読み込み中	
+ACCESSIBILITY_GLOBAL_PLEASE_WAIT	お待ちください	
+ACCESSIBILITY_GLOBAL_CARD	カード	
+ACCESSIBILITY_GLOBAL_CARD_PLURAL	カード	
+ACCESSIBILITY_GLOBAL_HERO	ヒーロー	
+ACCESSIBILITY_GLOBAL_HERO_POWER	ヒーローパワー	
+ACCESSIBILITY_GLOBAL_SECRET	{0} シークレット	0=secret class e.g. {Mage} secret
+ACCESSIBILITY_GLOBAL_GAME_SPEED	ゲームスピード {0}	0=current game speed
+ACCESSIBILITY_GLOBAL_GAME_SPEED_CANNOT_ADJUST_VS_PLAYERS	対人戦ではゲームスピードを調整できません	
+ACCESSIBILITY_GLOBAL_NEW_HEARTHSTONE_ACCESS_VERSION_AVAILABLE	新しいバージョンの Hearthstone Access が利用可能です。可能なときにパッチャーを実行してください。バグ修正が行われている可能性があります	
+ACCESSIBILITY_GLOBAL_CANNOT_DO_THAT	それはできません	
+ACCESSIBILITY_GLOBAL_SWITCH_FORMAT	フォーマットを変更	Used as a menu option for switching between standard, wild and classic
+ACCESSIBILITY_GLOBAL_CHOOSE_FORMAT	フォーマットを選んでください	Used as a menu title for choosing standard, wild or classic
 
-ACCESSIBILITY_GLOBAL_KEYWORD_CURSED	Cursed	
+ACCESSIBILITY_GLOBAL_KEYWORD_CURSED	呪い	
 
-ACCESSIBILITY_GLOBAL_ACCESSIBILITY_ON	Accessibility on	Read when F8 is pressed and accessibility is turned on
-ACCESSIBILITY_GLOBAL_ACCESSIBILITY_OFF	Accessibility off	Read when F8 is pressed and accessibility is turned off
+ACCESSIBILITY_GLOBAL_ACCESSIBILITY_ON	アクセシビリティ オン	Read when F8 is pressed and accessibility is turned on
+ACCESSIBILITY_GLOBAL_ACCESSIBILITY_OFF	アクセシビリティ オフ	Read when F8 is pressed and accessibility is turned off
 ACCESSIBILITY_GLOBAL_STREAMER_MODE_ON	Streamer mode on	Read when Ctrl+Shift+S is pressed and streamer mode is turned on
 ACCESSIBILITY_GLOBAL_STREAMER_MODE_OFF	Streamer mode off	Read when Ctrl+Shift+S is pressed and streamer mode is turned off
 
