@@ -148,56 +148,56 @@ ACCESSIBILITY_GAMEPLAY_VS_PLAYER_ANNOUNCEMENT	対戦相手は {0}, {1}	0=opponent's n
 
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_HAND_EMPTY	手札がありません	
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_MINIONS_EMPTY	召喚したミニオンはいません	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_MINIONS_EMPTY	Your opponent has no summoned minions	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_SECRETS_EMPTY	You have no secrets	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_EMPTY	Your opponent has no secrets	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_COUNT	Your opponent has {0} |4(secret,secrets)	0=number of secrets
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_HERO_POWER_EMPTY	You have no Hero Power	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_HERO_POWER_EMPTY	Your opponent has no Hero Power	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_WEAPON_EMPTY	You have no equipped weapon	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_WEAPON_EMPTY	Your opponent has no equipped weapon	
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA_CURRENT_AND_TOTAL	You have {0} out of {1} mana	0=current mana 1=total mana
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA	You have {0} mana	0=current and total mana
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_MANA	Your opponent has {0} mana	0=current and total mana
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_HAND	Opponent's hand. {0} |4(card,cards)	0=number of cards
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_DECK	Deck. {0} |4(card,cards)	0=number of cards
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_DECK	Opponent's Deck. {0} |4(card,cards)	0=number of cards
-ACCESSIBILITY_GAMEPLAY_NO_VALID_PLAYS	You have no valid plays	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_MINIONS_EMPTY	相手が召喚したミニオンはいません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_SECRETS_EMPTY	シークレットはありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_EMPTY	相手のシークレットはありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_COUNT	相手には {0} つのシークレットがあります	0=number of secrets
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_HERO_POWER_EMPTY	ヒーローパワーがありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_HERO_POWER_EMPTY	相手のヒーローパワーはありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_WEAPON_EMPTY	装備している武器はありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_WEAPON_EMPTY	相手が装備している武器はありません	
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA_CURRENT_AND_TOTAL	{0} / {1} マナ	0=current mana 1=total mana
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA	{0} マナ	0=current and total mana
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_MANA	相手は {0} マナ	0=current and total mana
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_HAND	相手の手札。 {0} 枚	0=number of cards
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_DECK	デッキ. {0} 枚	0=number of cards
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_DECK	相手のデッキ. {0} 枚	0=number of cards
+ACCESSIBILITY_GAMEPLAY_NO_VALID_PLAYS	プレイ可能な手はありません	
 
-ACCESSIBILITY_GAMEPLAY_GAME_OVER_WON	You win	
-ACCESSIBILITY_GAMEPLAY_GAME_OVER_LOST	You lose	
-ACCESSIBILITY_GAMEPLAY_GAME_OVER_TIED	You tied	
-ACCESSIBILITY_GAMEPLAY_GAME_OVER_GENERIC	Game over	
+ACCESSIBILITY_GAMEPLAY_GAME_OVER_WON	勝利	
+ACCESSIBILITY_GAMEPLAY_GAME_OVER_LOST	敗北	
+ACCESSIBILITY_GAMEPLAY_GAME_OVER_TIED	引き分け	
+ACCESSIBILITY_GAMEPLAY_GAME_OVER_GENERIC	ゲームオーバー	
 
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HERO	Your Hero	Read when you press v
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HERO	Opponent's Hero	Read when you press f
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HERO_POWER	Hero Power	Read when you press r
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HERO_POWER	Opponent's Hero Power	Read when you press Shift+r
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_WEAPON	Weapon	Read when you press w
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_WEAPON	Opponent's weapon	Read when you press Shift+w
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HAND	Hand	Read when you press c
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HAND	Opponent's hand	Read when you press Shift+c
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_MINIONS	Minions	Read when you press b
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_MINIONS	Opponent's minions	Read when you press g
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_SECRETS	Secrets	Read when you press s
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_SECRETS	Opponent's secrets	Read when you press Shift+s
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HERO	自分のヒーロー	Read when you press v
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HERO	相手のヒーロー	Read when you press f
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HERO_POWER	ヒーローパワー	Read when you press r
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HERO_POWER	相手のヒーローパワー	Read when you press Shift+r
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_WEAPON	武器	Read when you press w
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_WEAPON	相手の武器	Read when you press Shift+w
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HAND	手札	Read when you press c
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HAND	相手の手札	Read when you press Shift+c
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_MINIONS	ミニオン	Read when you press b
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_MINIONS	相手のミニオン	Read when you press g
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_SECRETS	シークレット	Read when you press s
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_SECRETS	相手のシークレット	Read when you press Shift+s
 
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_HAND	your hand	e.g. Your opponent's Murloc Raider moved from your opponent's hand to {your hand}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_HAND	your opponent's hand	e.g. Your Murloc Raider moved to {you opponent's hand}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_BATTLEFIELD	your battlefield	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_BATTLEFIELD	your opponent's battlefield	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_SECRETS	your secrets	e.g. Your Ice Block moved from your deck to {your secrets}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_SECRETS	your opponent's secrets	e.g. Your Ice Block moved from your deck to {your opponent's secrets}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_DECK	your deck	e.g. Your Fireball moved from {your deck} to your opponent's deck
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_DECK	your opponent's deck	e.g. Your Fireball moved from your deck to {your opponent's deck}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_GRAVEYARD	your graveyard	e.g. Your Murloc Raider moved from {your graveyard} to your battlefield
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_GRAVEYARD	your opponent's graveyard	e.g. Your opponent's Murloc Raider moved from {your opponent's graveyard} to your battlefield
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_HAND	自分の手札	e.g. Your opponent's Murloc Raider moved from your opponent's hand to {your hand}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_HAND	相手の手札	e.g. Your Murloc Raider moved to {you opponent's hand}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_BATTLEFIELD	自分のバトルフィールド	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_BATTLEFIELD	相手のバトルフィールド	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_SECRETS	自分のシークレット	e.g. Your Ice Block moved from your deck to {your secrets}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_SECRETS	相手のシークレット	e.g. Your Ice Block moved from your deck to {your opponent's secrets}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_DECK	自分のデッキ	e.g. Your Fireball moved from {your deck} to your opponent's deck
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_DECK	相手のデッキ	e.g. Your Fireball moved from your deck to {your opponent's deck}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_GRAVEYARD	自分の墓地	e.g. Your Murloc Raider moved from {your graveyard} to your battlefield
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_GRAVEYARD	相手の墓地	e.g. Your opponent's Murloc Raider moved from {your opponent's graveyard} to your battlefield
 
-ACCESSIBILITY_GAMEPLAY_MULLIGAN	Mulligan	
-ACCESSIBILITY_GAMEPLAY_MULLIGAN_WILL_BE_REPLACED	Will be replaced	
-ACCESSIBILITY_GAMEPLAY_MULLIGAN_WILL_NOT_BE_REPLACED	Will not be replaced	
-ACCESSIBILITY_GAMEPLAY_MULLIGAN_HELP	Use the arrow keys to go through your starting cards. Use {0} to mark the cards you'd like to replace. Press {1} once you're done	0=spacebar key 1=Enter key
-ACCESSIBILITY_GAMEPLAY_MULLIGAN_HELP_WAITING_FOR_GAME_TO_START	The game is about to start. Please wait	
+ACCESSIBILITY_GAMEPLAY_MULLIGAN	マリガン	
+ACCESSIBILITY_GAMEPLAY_MULLIGAN_WILL_BE_REPLACED	交換されます	
+ACCESSIBILITY_GAMEPLAY_MULLIGAN_WILL_NOT_BE_REPLACED	交換されません	
+ACCESSIBILITY_GAMEPLAY_MULLIGAN_HELP	開始時のカードを矢印キーを使って確認します。 {0} で交換したいカードをマークします。 完了したら {1} を押します	0=spacebar key 1=Enter key
+ACCESSIBILITY_GAMEPLAY_MULLIGAN_HELP_WAITING_FOR_GAME_TO_START	ゲームはまもなく始まります。しばらくお待ちください	
 
 ACCESSIBILITY_GAMEPLAY_DIFF_ENTITY_DIED	died	Singular and plural are often the same in English
 ACCESSIBILITY_GAMEPLAY_DIFF_MULTIPLE_ENTITIES_DIED	died	Singular and plural are often the same in English
