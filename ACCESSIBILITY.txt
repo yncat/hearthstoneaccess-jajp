@@ -36,7 +36,7 @@ ACCESSIBILITY_GLOBAL_CARD	カード
 ACCESSIBILITY_GLOBAL_CARD_PLURAL	カード	
 ACCESSIBILITY_GLOBAL_HERO	ヒーロー	
 ACCESSIBILITY_GLOBAL_HERO_POWER	ヒーローパワー	
-ACCESSIBILITY_GLOBAL_SECRET	{0} シークレット	0=secret class e.g. {Mage} secret
+ACCESSIBILITY_GLOBAL_SECRET	{0} 秘策	0=secret class e.g. {Mage} secret
 ACCESSIBILITY_GLOBAL_GAME_SPEED	ゲームスピード {0}	0=current game speed
 ACCESSIBILITY_GLOBAL_GAME_SPEED_CANNOT_ADJUST_VS_PLAYERS	対人戦ではゲームスピードを調整できません	
 ACCESSIBILITY_GLOBAL_NEW_HEARTHSTONE_ACCESS_VERSION_AVAILABLE	新しいバージョンの Hearthstone Access が利用可能です。可能なときにパッチャーを実行してください。バグ修正が行われている可能性があります	
@@ -106,8 +106,8 @@ ACCESSIBILITY_GAMEPLAY_OPPONENT_USED_HERO_POWER	相手は {0} を使用	0=hero p
 ACCESSIBILITY_GAMEPLAY_OPPONENT_USED_HERO_POWER_BIG_CARD	相手は {0} を使用; {1}	0=hero power name 1=card text e.g. Your opponent used {Fireblast}; {Hero Power Deal 1 damage.}
 ACCESSIBILITY_GAMEPLAY_PLAYER_CAST_SECRET	{0} をキャスト	0=secret name e.g. You cast {Counterspell}
 ACCESSIBILITY_GAMEPLAY_PLAYER_CAST_SECRET_BIG_CARD	{0} をキャスト; {1}	0=secret name 1=card text e.g. You cast {Counterspell}; {Secret: When your opponent casts a spell, Counter it.}
-ACCESSIBILITY_GAMEPLAY_OPPONENT_CAST_SECRET	相手は 1 {0} のシークレットをキャスト	0=secret class e.g. Your opponent cast 1 {mage} secret
-ACCESSIBILITY_GAMEPLAY_OPPONENT_CAST_N_SECRETS	相手は {0} つのシークレットをキャスト	0=number of secrets e.g. Your opponent cast {2} secrets
+ACCESSIBILITY_GAMEPLAY_OPPONENT_CAST_SECRET	相手は 1 {0} の秘策をキャスト	0=secret class e.g. Your opponent cast 1 {mage} secret
+ACCESSIBILITY_GAMEPLAY_OPPONENT_CAST_N_SECRETS	相手は {0} つの秘策をキャスト	0=number of secrets e.g. Your opponent cast {2} secrets
 ACCESSIBILITY_GAMEPLAY_PLAYER_DREW_CARD_FROM_EMPTY_DECK	空のデッキからカードを引こうとした	
 ACCESSIBILITY_GAMEPLAY_OPPONENT_DREW_CARD_FROM_EMPTY_DECK	相手は空のデッキからカードを引こうとした	
 ACCESSIBILITY_GAMEPLAY_PLAYER_DREW_CARD_BUT_BURNED	1 枚の {0} を引いたが、バーンした	0=card e.g. You drew 1 {Fireball} but it burned
@@ -149,9 +149,9 @@ ACCESSIBILITY_GAMEPLAY_VS_PLAYER_ANNOUNCEMENT	対戦相手は {0}, {1}	0=opponen
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_HAND_EMPTY	手札がありません	
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_MINIONS_EMPTY	召喚したミニオンはいません	
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_MINIONS_EMPTY	相手が召喚したミニオンはいません	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_SECRETS_EMPTY	シークレットはありません	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_EMPTY	相手のシークレットはありません	
-ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_COUNT	相手には {0} つのシークレットがあります	0=number of secrets
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_SECRETS_EMPTY	秘策はありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_EMPTY	相手の秘策はありません	
+ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_SECRETS_COUNT	相手には {0} つの秘策があります	0=number of secrets
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_HERO_POWER_EMPTY	ヒーローパワーがありません	
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_OPPONENT_HERO_POWER_EMPTY	相手のヒーローパワーはありません	
 ACCESSIBILITY_GAMEPLAY_SEE_ZONE_PLAYER_WEAPON_EMPTY	装備している武器はありません	
@@ -179,15 +179,15 @@ ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_HAND	手札	Read when you press c
 ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_HAND	相手の手札	Read when you press Shift+c
 ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_MINIONS	ミニオン	Read when you press b
 ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_MINIONS	相手のミニオン	Read when you press g
-ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_SECRETS	シークレット	Read when you press s
-ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_SECRETS	相手のシークレット	Read when you press Shift+s
+ACCESSIBILITY_GAMEPLAY_ZONE_PLAYER_SECRETS	秘策	Read when you press s
+ACCESSIBILITY_GAMEPLAY_ZONE_OPPONENT_SECRETS	相手の秘策	Read when you press Shift+s
 
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_HAND	自分の手札	e.g. Your opponent's Murloc Raider moved from your opponent's hand to {your hand}
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_HAND	相手の手札	e.g. Your Murloc Raider moved to {you opponent's hand}
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_BATTLEFIELD	自分のバトルフィールド	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_BATTLEFIELD	相手のバトルフィールド	e.g. Your Murloc Raider moved from your graveyard to {your battlefield}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_SECRETS	自分のシークレット	e.g. Your Ice Block moved from your deck to {your secrets}
-ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_SECRETS	相手のシークレット	e.g. Your Ice Block moved from your deck to {your opponent's secrets}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_SECRETS	自分の秘策	e.g. Your Ice Block moved from your deck to {your secrets}
+ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_SECRETS	相手の秘策	e.g. Your Ice Block moved from your deck to {your opponent's secrets}
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_DECK	自分のデッキ	e.g. Your Fireball moved from {your deck} to your opponent's deck
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_OPPONENT_DECK	相手のデッキ	e.g. Your Fireball moved from your deck to {your opponent's deck}
 ACCESSIBILITY_GAMEPLAY_DIFF_ZONE_PLAYER_GRAVEYARD	自分の墓地	e.g. Your Murloc Raider moved from {your graveyard} to your battlefield
@@ -251,7 +251,7 @@ ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_ENTITY_FULL_NAME	自分の {0}	0=entity name 
 ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_ENTITY_FULL_NAME	相手の {0}	0=entity name e.g. Your opponent's {Raid Leader}
 ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_ENTITY_FULL_NAME_IN_LIST	自分の {0} {1}	0=ordinal number 1=entity name e.g. Your {second} {Raid Leader}
 ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_ENTITY_FULL_NAME_IN_LIST	相手の {0} {1}	0=ordinal number 1=entity name e.g. Your opponent's {second} {Raid Leader}
-ACCESSIBILITY_GAMEPLAY_DIFF_MULTIPLE_ENTITIES	{0} 体の {1}	0=number of entities 1=entity name e.g. {2} {Raid Leader}
+ACCESSIBILITY_GAMEPLAY_DIFF_MULTIPLE_ENTITIES	{0}枚の {1}	0=number of entities 1=entity name e.g. {2} {Raid Leader}
 
 ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_EVERYONE	全員	e.g. {everyone} took 2 damage
 ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_EVERYONE_ELSE	そのほか	e.g. {everyone else} took 2 damage
@@ -266,8 +266,8 @@ ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_OPPONENT_MINIONS	相手のミニオン	e.g. {Y
 ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_OTHER_OPPONENT_MINIONS	ほかの相手のミニオン	e.g. {Your other opponent's minions} took 2 damage
 ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_FRIENDLY_MINIONS	自分のミニオン	e.g. {Your minions} took 2 damage
 ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_OTHER_FRIENDLY_MINIONS	ほかの自分のミニオン	e.g. {Your other minions} took 2 damage
-ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_FRIENDLY_SAME_NAME_ENTITIES	自分の {0} 体の {1}	0=count 1=minion name e.g. Your {2} {Raid Leader}
-ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_OPPONENT_SAME_NAME_ENTITIES	相手の {0} 体の {1}	0=count 1=minion name e.g. Your opponent's {2} {Raid Leader}
+ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_FRIENDLY_SAME_NAME_ENTITIES	自分の {0}体の {1}	0=count 1=minion name e.g. Your {2} {Raid Leader}
+ACCESSIBILITY_GAMEPLAY_DIFF_GROUP_OPPONENT_SAME_NAME_ENTITIES	相手の{0}体の {1}	0=count 1=minion name e.g. Your opponent's {2} {Raid Leader}
 
 ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_PLAYER_EQUIPPED_WEAPON	自分のヒーローは 1 つの {0} を装備	0=weapon name e.g. your Hero equipped 1 {Fiery War Axe}
 ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_OPPONENT_EQUIPPED_WEAPON	相手のヒーローは 1 つの {0} を装備	0=weapon name e.g. your opponent's Hero equipped 1 {Fiery War Axe}
@@ -325,8 +325,8 @@ ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_HAND_HELP	{0} を押して自分の手札を�
 ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_HAND_HELP	{0} を押して相手の手札枚数を確認します	0=Shift+c keys
 ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_MINIONS_HELP	{0} を押して自分が召喚したミニオンを確認します	0=b key
 ACCESSIBILITY_GAMEPLAY_SEE_OPPONENT_MINIONS_HELP	{0} を押して相手のミニオンを確認します	0=g key
-ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_SECRETS_HELP	{0} を押して自分のシークレットを確認します	0=s key
-ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_SECRETS_HELP	{0} を押して相手のシークレットを確認します	0=Shift+s keys
+ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_SECRETS_HELP	{0} を押して自分の秘策を確認します	0=s key
+ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_SECRETS_HELP	{0} を押して相手の秘策を確認します	0=Shift+s keys
 ACCESSIBILITY_GAMEPLAY_READ_PLAYER_WEAPON_HELP	{0} を押して自分の武器を確認します	0=w key
 ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_WEAPON_HELP	{0} を押して相手の武器を確認します	0=Shift+w keys
 ACCESSIBILITY_GAMEPLAY_READ_PLAYER_HERO_POWER_HELP	{0} を押して自分のヒーローパワーを確認します	0=r key
@@ -363,9 +363,9 @@ ACCESSIBILITY_GAMEPLAY_SPECIAL_STARTING_OPPONENT_BATTLEFIELD	相手のバトル�
 
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_TIER	ティア {0}	0=card tier
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_COST	{0} ゴールド	0=card cost
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_RECRUIT_PHASE_START_DESCRIBE	タバーン・ティア {0} 、 {1} ゴールド	0=tavern tier 1=amount of gold when recruit phase starts e.g. Tavern tier 2 and 5 gold
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_RECRUIT_PHASE_START_DESCRIBE	酒場 ティア {0} 、 {1} ゴールド	0=tavern tier 1=amount of gold when recruit phase starts e.g. Tavern tier 2 and 5 gold
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE	ティア {0} の {1} と対戦します。 相手の体力は {2} 、 ミニオンの数は {3}	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions e.g. You face a tier 3 Chenvaala with 30 Health and 5 minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_INCLUDE_ARMOR	ティア {0} の {1} と対戦します。 相手の体力は {2} 、 装甲は {4} 、 ミニオンの数は {3} 体	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions 4=opponent's armor e.g. You face a tier 3 Chenvaala with 30 Health, 2 armor and 5 minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_INCLUDE_ARMOR	ティア {0} の {1} と対戦します。 相手の体力は {2} 、 装甲は {4} 、 ミニオンの数は {3}体	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions 4=opponent's armor e.g. You face a tier 3 Chenvaala with 30 Health, 2 armor and 5 minions
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_AGAINST_DEAD_PLAYER	{0} と対戦します	0=Kel'Thuzad i.e. dead player with 0 health e.g. You face {Kel'Thuzad}
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD_CURRENT_AND_TOTAL	ゴールドは {0} / {1}	0=current gold 1=total gold
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD	ゴールドは {0}	0=current and total gold
@@ -388,8 +388,8 @@ ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_DEALT_DAMAGE	{1} 
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TOOK_DAMAGE	{1} から {0} ダメージを受けた	0=damage taken 1=opponent Hero e.g. Took {10} damage from {Millhouse Manastorm}
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TIED	{0} と引き分けた	0=opponent Hero e.g. Tied with {Millhouse Manastorm}
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_TAVERN	1 枚の {0} がボブの酒場に加わった	0=card name e.g. 1 {Murloc Raider} appeared in Bob's Tavern
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_TAVERN	{0} がボブの酒場に加わった	0=card name e.g. 1 {Murloc Raider} and 2 {Tarecgosa} appeared in Bob's Tavern
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_TAVERN	1 枚の {0} がボブの酒場に加わりました	0=card name e.g. 1 {Murloc Raider} appeared in Bob's Tavern
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_TAVERN	{0} がボブの酒場に加わりました	0=card name e.g. 1 {Murloc Raider} and 2 {Tarecgosa} appeared in Bob's Tavern
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_HAND	1 枚の {0} を獲得	0=card name e.g. You got 1 {Murloc Raider}
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_HAND	{0} を獲得	0=card name e.g. You got 1 {Murloc Raider} and 1 {Tarecgosa}
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_BARTENDER_ENTITY_FULL_NAME	自分のバーテンダーの {0}	0=entity name e.g. Your bartender's {Raid Leader}
@@ -398,8 +398,8 @@ ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_MINIONS	自分のバ�
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_OTHER_BARTENDER_MINIONS	ほかの自分のバーテンダーのミニオン	e.g. {Your other bartender's minions} took 2 damage
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_SAME_NAME_ENTITIES	自分のバーテンダーの {0} 枚の {1}	0=count 1=minion name e.g. Your bartender's {2} {Raid Leader}
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_PLAYER_WON	自分の勝利、生き残ったミニオンは {0} 体	e.g. You won with {2} surviving minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_OPPONENT_WON	相手の勝利、生き残ったミニオンは {0} 体	e.g. Your opponent won with {2} surviving minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_PLAYER_WON	自分の勝利、生き残ったミニオンは {0}体	e.g. You won with {2} surviving minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_OPPONENT_WON	相手の勝利、生き残ったミニオンは {0}体	e.g. Your opponent won with {2} surviving minions
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_DIED	{0} 人のプレイヤーが死亡	e.g. {2} players died
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_REMAINING	残りのプレイヤー数は {0} 人	e.g. {2} players remaining
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_BUDDY_METER	バディメーター {0}%	0=buddy meter progress e.g. Buddy Meter {45}%
