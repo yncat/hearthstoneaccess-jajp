@@ -649,56 +649,56 @@ ACCESSIBILITY_TUTORIAL_THINK_YOU_CAN_DO_IT	できそうですか？
 ACCESSIBILITY_TUTORIAL_GOT_IT	やったね	
 ACCESSIBILITY_TUTORIAL_NO_ENDTURN_HP	まだです！ ヒーローパワーを使いましょう。 {0} を押して選択します	0=r key
 
-ACCESSIBILITY_TUTORIAL_HOGGER_START	Your first opponent is a gnoll named Hogger. You will be playing as the powerful mage Jaina Proudmoore	
-ACCESSIBILITY_TUTORIAL_HOGGER_FORCE_CARD_READ	Use the up and down arrow keys to read this card first	
-ACCESSIBILITY_TUTORIAL_HOGGER_SUMMON_MINION_FIRST	Summon the minion you just got first	
-ACCESSIBILITY_TUTORIAL_HOGGER_FORCE_LOOK_AT_OPPONENT_MINIONS_FIRST	Use {0} and the arrow keys to read your opponent's minions first	0=g key
-ACCESSIBILITY_TUTORIAL_HOGGER_2_0	When a turn starts, you always begin by drawing a card from your deck. Let's see the one we just drew	
-ACCESSIBILITY_TUTORIAL_HOGGER_2_1	Press {0} to look at the cards in your hand	0=c key
-ACCESSIBILITY_TUTORIAL_HOGGER_2_2	Ok, so... This card is a minion named Murloc Raider	
-ACCESSIBILITY_TUTORIAL_HOGGER_2_2B	Minions are creatures that you can summon onto the battlefield to fight for your Hero	
-ACCESSIBILITY_TUTORIAL_HOGGER_2_2D	This one costs 1 mana to summon and has 2 attack and 1 health	
-ACCESSIBILITY_TUTORIAL_HOGGER_2_3	Let's start by summoning this minion	
-ACCESSIBILITY_TUTORIAL_HOGGER_2_4	Press {0} to do so	0=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_2_5	Press {0} to confirm or {1} to cancel	0=Enter key 1=Backspace key
-ACCESSIBILITY_TUTORIAL_HOGGER_2_6	Minions must wait a turn to attack once they're summoned, so we have nothing left to do	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_0	Your opponent's minion attacked your Hero so you took some damage	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_1	Let's see how much health we have left	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_2	Use the up and down arrow keys to read your hero card	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_2_HELP	Use {0} and the arrow keys to find out how much health your Hero has	0=v key
-ACCESSIBILITY_TUTORIAL_HOGGER_3_3	If your Hero runs out of health, you lose. 28 health is still plenty though	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_4	Let's look at your opponent's hero now. Press {0}	0=f key
-ACCESSIBILITY_TUTORIAL_HOGGER_3_5	Can you find how much health he has?	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_5_HELP	Use the up and down arrow keys to read your opponent's hero card	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_6	Once your opponent's Hero runs out of health, you win	
-ACCESSIBILITY_TUTORIAL_HOGGER_3_7	Let's carry on	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_1	Looks like you got another minion. Can you summon this one yourself?	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_1_HELP	Use {0} and {1} to summon your minion	0=c key 1=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_2	When you already have minions on the battlefield, you can use the left and right arrow keys to select where the new minion will be placed	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_4	You now have two minions on the battlefield. This one was just summoned so it must wait a turn to attack	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_5	Let's learn how to navigate the battlefield	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_6	Use the left and right arrow keys to navigate your minions	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_6_HELP	Use {0} and the arrow keys to navigate your summoned minions	0=b key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_8	Let's look at your opponent's minions now. Press {0} to do so	0=g key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_9	Can you read this minion by yourself?	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_9_HELP	Use the up and down arrow keys to read your opponent's minions	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_10	Let's try to attack this minion now	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_11	Select the Murloc Raider you summoned last turn	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_11_HELP	Use {0} to get to your minion and {1} to launch an attack	0=b key 1=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_12	Press {0} to attack with this minion	0=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_13	Can you attack your opponent's minion?	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_13_HELP	Use {0} and {1} to attack your opponent's minion	0=g key 1=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_4_16	Both minions had 2 attack and 1 health so they killed each other	
-ACCESSIBILITY_TUTORIAL_HOGGER_4_17	Your other minion is still exhausted so there's nothing left to do. Remember how to end your turn?	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_1	Looks like you got another minion	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_2	This means you have two possible options right now	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_3	You can either summon the minion you just got, or use the one you summoned last turn to launch an attack	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_4	One way to do this would be using keys such as {0} to look at your hand or {1} to look at your summoned minions	0=c key 1=b key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_5	However, there's an easier way to do it	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_6	Press {0}	0=Tab key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_7	You're now looking at your first option, which would be to summon the minion you just got	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_8	Try pressing {0} again	0=Tab key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_9	You're now looking at your second option, which would be to attack with the minion you summoned last turn	
+ACCESSIBILITY_TUTORIAL_HOGGER_START	最初の対戦相手は、ホガーという名を持つノールです。 自分は、力をもいつメイジ、ジーナ・プラウドムーアとしてプレイします	
+ACCESSIBILITY_TUTORIAL_HOGGER_FORCE_CARD_READ	最初に、上下の矢印キーでこのカードを読んでください	
+ACCESSIBILITY_TUTORIAL_HOGGER_SUMMON_MINION_FIRST	最初に引いたミニオンを召喚してみてください	
+ACCESSIBILITY_TUTORIAL_HOGGER_FORCE_LOOK_AT_OPPONENT_MINIONS_FIRST	まず、 {0} と矢印キーで相手のミニオンを確認してください	0=g key
+ACCESSIBILITY_TUTORIAL_HOGGER_2_0	ターンが始まるとき、必ず最初にカードを1枚引きます。今引いたカードを見てみましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_2_1	{0} を押して、自分の手札を確認しましょう	0=c key
+ACCESSIBILITY_TUTORIAL_HOGGER_2_2	OK。このカードは、『マーロックの襲撃兵』というミニオンです	
+ACCESSIBILITY_TUTORIAL_HOGGER_2_2B	ミニオンは、バトルフィールドに召喚でき、自分のヒーローのために戦ってくれる生物です	
+ACCESSIBILITY_TUTORIAL_HOGGER_2_2D	このミニオンは、召喚するために1マナを必要とします。 攻撃力は 2 で、体力は 1 です	
+ACCESSIBILITY_TUTORIAL_HOGGER_2_3	手始めに、このミニオンを召喚してみましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_2_4	{0} で召喚します	0=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_2_5	{0} で決定するか、 {1} でキャンセルします	0=Enter key 1=Backspace key
+ACCESSIBILITY_TUTORIAL_HOGGER_2_6	ミニオンは、攻撃できるまでに1ターン待たなければいけませんので、このターンでできることはありません	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_0	相手のミニオンが自分のヒーローを攻撃して、ダメージを受けました	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_1	どれぐらいの体力が残っているか確認してみましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_2	上下の矢印キーで、自分のヒーローカードを読みます	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_2_HELP	{0} と矢印キーで、自分のヒーローの残り体力を確認してみましょう	0=v key
+ACCESSIBILITY_TUTORIAL_HOGGER_3_3	自分のヒーローの体力がなくなると負けになります。 まだ28も残っているので、大丈夫ですけどね	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_4	相手のヒーローも見てみましょう。 {-} を押してください	0=f key
+ACCESSIBILITY_TUTORIAL_HOGGER_3_5	どれぐらいの体力が残っているかわかりますか？	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_5_HELP	上下の矢印キーで、相手のヒーローカードを読みます	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_6	相手のヒーローの体力を削りきることができれば、勝ちになります	
+ACCESSIBILITY_TUTORIAL_HOGGER_3_7	続けていきましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_1	もう 1 体のミニオンを引きましたね。召喚できますか？	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_1_HELP	{0} と {1} でミニオンを召喚します	0=c key 1=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_2	すでにミニオンがバトルフィールドにいるとき、左右の矢印キーでミニオンの召喚場所を選べます	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_4	自分のバトルフィールドのミニオンが 2 体になりました。今召喚したミニオンは、攻撃できるまでに1ターン待たなければいけません	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_5	バトルフィールドを見る方法を学んでいきましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_6	左右の矢印キーで自分のミニオンを確認します	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_6_HELP	{0} と矢印キーで、自分の召喚したミニオンを確認します	0=b key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_8	相手のミニオンも確認してみましょう。 {0} を押してください	0=g key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_9	このミニオンはどうですか？	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_9_HELP	上下の矢印キーで、相手のミニオンの情報を読みます	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_10	このミニオンを攻撃してみましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_11	最後に召喚した『マーロックの襲撃兵』を選びましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_11_HELP	{0} で自分のミニオンに移動して、 {1} で攻撃を指示します	0=b key 1=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_12	{0} を押すと、このミニオンで攻撃します	0=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_13	相手のミニオンを攻撃できますか？	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_13_HELP	{0} と {1} で相手のミニオンを攻撃します	0=g key 1=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_4_16	両方のミニオンは、攻撃力が 2 、体力が 1 だったので、お互いに破壊されました	
+ACCESSIBILITY_TUTORIAL_HOGGER_4_17	自分のもう 1 体のミニオンは、まだ召喚酔いを起こしているので、このターンでできることはもうありません。どうやってターンを終了するか覚えていますか？	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_1	もう 1 体のミニオンを引きましたね	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_2	今とれる選択肢は2つあります	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_3	今引いたミニオンを召喚するか、フィールドにいるミニオンで攻撃するかです	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_4	一つのやり方は、 {0} で手札を選ぶか、 {1} で自分の召喚したミニオンを選ぶことです	0=c key 1=b key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_5	でも、もっと簡単な方法があります。	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_6	{0} を押してみてください	0=Tab key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_7	最初の選択肢、先ほど引いたミニオンに移動しました。このミニオンを召喚できます	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_8	もう一度 {0} を押してみましょう	0=Tab key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_9	次の選択肢、前のターンで召喚したミニオンが選ばれました。このミニオンで攻撃できます	
 ACCESSIBILITY_TUTORIAL_HOGGER_6_10	You can always use {0} to go through your valid options, so make sure to remember this key!	0=key
 ACCESSIBILITY_TUTORIAL_HOGGER_6_12	Alright. Let's begin by summoning the minion we just got	
 ACCESSIBILITY_TUTORIAL_HOGGER_6_12_HELP	Use {0} or {1} and {2} to summon your minion	0=Tab key 1=c key 2=Enter key
