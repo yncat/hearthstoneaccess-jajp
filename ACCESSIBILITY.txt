@@ -398,55 +398,55 @@ ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_MINIONS	自分のバーテン
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_OTHER_BARTENDER_MINIONS	ほかの自分のバーテンダーのミニオン	e.g. {Your other bartender's minions} took 2 damage
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_SAME_NAME_ENTITIES	自分のバーテンダーの {0} 枚の {1}	0=count 1=minion name e.g. Your bartender's {2} {Raid Leader}
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_PLAYER_WON	You won with {0} surviving |4(minion,minions)	e.g. You won with {2} surviving minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_OPPONENT_WON	Your opponent won with {0} surviving |4(minion,minions)	e.g. Your opponent won with {2} surviving minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_DIED	{0} |4(player,players) died	e.g. {2} players died
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_REMAINING	{0} |4(player,players) remaining	e.g. {2} players remaining
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_BUDDY_METER	Buddy Meter {0}%	0=buddy meter progress e.g. Buddy Meter {45}%
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_ZONE_HERO_BUDDY	Hero Buddy	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_PLAYER_WON	自分の勝利、生き残ったミニオンは {0} 体	e.g. You won with {2} surviving minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_OPPONENT_WON	相手の勝利、生き残ったミニオンは {0} 体	e.g. Your opponent won with {2} surviving minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_DIED	{0} 人のプレイヤーが死亡	e.g. {2} players died
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_N_PLAYERS_REMAINING	残りのプレイヤー数は {0} 人	e.g. {2} players remaining
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_BUDDY_METER	バディメーター {0}%	0=buddy meter progress e.g. Buddy Meter {45}%
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_ZONE_HERO_BUDDY	ヒーロー・バディ	
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD_HELP	Press {0} to read your gold	0=a key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_TAVERN_INFORMATION_HELP	Press {0} to read your tavern information	0=t key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_HERO_BUDDY_HELP	Press {0} to read your Hero Buddy	0=d key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_NEXT_OPPONENT_STATS_HELP	Press {0} to read your next opponent's stats	0=n key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_LEADERBOARD_HELP	Press {0} to read the leaderboard	0=l key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_MY_STATS_HELP	Press {0} to read your stats	0=m key
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_RACES_IN_GAME_HELP	Press {0} to read the races in this game	0=o key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD_HELP	{0} を押してゴールドを確認します	0=a key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_TAVERN_INFORMATION_HELP	{0} を押して酒場の情報を確認します	0=t key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_HERO_BUDDY_HELP	{0} を押して自分のヒーロー・バディを確認します	0=d key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_NEXT_OPPONENT_STATS_HELP	{0} を押して、次の相手のステータスを確認します	0=n key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_LEADERBOARD_HELP	{0} を押してリーダーボードを読みます	0=l key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_MY_STATS_HELP	{0} を押して自分のステータスを確認します	0=m key
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_RACES_IN_GAME_HELP	{0} を押してこのゲームでのレースを確認します	0=o key
 
-ACCESSIBILITY_UI_POPUP	Popup	
-ACCESSIBILITY_UI_REWARDS_TITLE	Rewards	
-ACCESSIBILITY_UI_UNKNOWN_POPUP	This popup hasn't been made accessible yet. Please get help from someone sighted	
-ACCESSIBILITY_UI_UNKNOWN_DIALOG	This dialog hasn't been made accessible yet. Please get help from someone sighted	
+ACCESSIBILITY_UI_POPUP	ポップアップ	
+ACCESSIBILITY_UI_REWARDS_TITLE	報酬	
+ACCESSIBILITY_UI_UNKNOWN_POPUP	このポップアップはまだアクセシブルになっていません。サポートを依頼してください	
+ACCESSIBILITY_UI_UNKNOWN_DIALOG	このダイアログはまだアクセシブルになっていません。サポートを依頼してください	
 
-ACCESSIBILITY_UI_ALERT_POPUP_TITLE	Alert Popup	
+ACCESSIBILITY_UI_ALERT_POPUP_TITLE	アラート・ポップアップ	
 
-ACCESSIBILITY_UI_REWARD_SCROLL_HELP	Use the arrow keys to go through your rewards	
+ACCESSIBILITY_UI_REWARD_SCROLL_HELP	矢印キーを使用して報酬を確認します	
 
-ACCESSIBILITY_UI_QUEST_NOTIFICATION_POPUP_HELP	Use the arrow keys to read your quests	
+ACCESSIBILITY_UI_QUEST_NOTIFICATION_POPUP_HELP	矢印キーを使用してクエストを確認します	
 
-ACCESSIBILITY_UI_WELCOME_QUESTS_HELP	Use the arrow keys to read your |4(quest,quests)	
+ACCESSIBILITY_UI_WELCOME_QUESTS_HELP	矢印キーを使用してクエストを確認します	
 
-ACCESSIBILITY_UI_REWARD_TITLE	You got a reward!	
-ACCESSIBILITY_UI_REWARD_HELP	Use the arrow keys to read the reward	
+ACCESSIBILITY_UI_REWARD_TITLE	報酬を獲得！	
+ACCESSIBILITY_UI_REWARD_HELP	矢印キーを使用して報酬を確認します	
 
-ACCESSIBILITY_UI_RANKED_INTRO_POPUP	The new ranked system is here! You can find more about it online	
+ACCESSIBILITY_UI_RANKED_INTRO_POPUP	新しいランクドシステムはこちらです！ 詳細はオンラインで	
 
-ACCESSIBILITY_UI_RANKED_BONUS_STARS_POPUP	Your performance in Ranked last season earned you {0} star bonus!	0=star bonus amount
+ACCESSIBILITY_UI_RANKED_BONUS_STARS_POPUP	最後のシーズンでのランクド・パフォーマンスで {0} スターボーナスを獲得！	0=star bonus amount
 
-ACCESSIBILITY_UI_RECONNECT_HELPER_DIALOG_TITLE	Reconnect dialog	
+ACCESSIBILITY_UI_RECONNECT_HELPER_DIALOG_TITLE	再接続ダイアログ	
 
-ACCESSIBILITY_UI_SEASON_END_DIALOG_RANK_EARNED	{0} has ended. You achieved the rank of {1}	0=season name 1=rank name e.g. {July 2021 season} has ended. You achieved the rank of {Diamond 1}
-ACCESSIBILITY_UI_SEASON_END_DIALOG_CHEST_EARNED	You have earned a rewards chest	
-ACCESSIBILITY_UI_SEASON_END_DIALOG_CHEST_EARNED_HELP	Press {0} to open	0=Enter key
-ACCESSIBILITY_UI_SEASON_END_DIALOG_SEASON_WELCOME	The {0} has begun!	0=season name e.g. The {August 2021 season} has begun!
-ACCESSIBILITY_UI_SEASON_END_DIALOG_REDUCED_WELCOME	A new season has begun!	
-ACCESSIBILITY_UI_SEASON_END_DIALOG_REMINDER_CHEST	Win {0} games this Season to earn a chest	0=number of games
-ACCESSIBILITY_UI_SEASON_END_DIALOG_REMINDER_CARDBACK	Win {0} games this Season to earn your Season Card Back	0=number of games
+ACCESSIBILITY_UI_SEASON_END_DIALOG_RANK_EARNED	{0} が終了しました。 {1} のランクを達成しました	0=season name 1=rank name e.g. {July 2021 season} has ended. You achieved the rank of {Diamond 1}
+ACCESSIBILITY_UI_SEASON_END_DIALOG_CHEST_EARNED	報酬チェストを獲得	
+ACCESSIBILITY_UI_SEASON_END_DIALOG_CHEST_EARNED_HELP	{0} を押して開きます	0=Enter key
+ACCESSIBILITY_UI_SEASON_END_DIALOG_SEASON_WELCOME	{0} が始まりました！	0=season name e.g. The {August 2021 season} has begun!
+ACCESSIBILITY_UI_SEASON_END_DIALOG_REDUCED_WELCOME	新しいシーズンが始まりました！	
+ACCESSIBILITY_UI_SEASON_END_DIALOG_REMINDER_CHEST	このシーズンで {0} 回勝利してチェストを獲得	0=number of games
+ACCESSIBILITY_UI_SEASON_END_DIALOG_REMINDER_CARDBACK	このシーズンで {0} 回勝利してシーズンカードバックを獲得	0=number of games
 
-ACCESSIBILITY_UI_CARD_LIST_POPUP_HELP	Use the arrow keys to read the cards	
+ACCESSIBILITY_UI_CARD_LIST_POPUP_HELP	矢印キーを使用してカードを読みます	
 
-ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_TITLE	Rewards chest popup	
-ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_HELP	Press {0} to open your rewards chest	0=Enter key
+ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_TITLE	報酬チェストポップアップ	
+ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_HELP	{0} を押して報酬チェストを開きます	0=Enter key
 
 ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_TITLE	You got {0} |4(reward package,reward packages)!	
 ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_HELP	Use the arrow keys and {0} to open your rewards	0=Enter key
