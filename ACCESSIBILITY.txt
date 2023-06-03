@@ -699,64 +699,64 @@ ACCESSIBILITY_TUTORIAL_HOGGER_6_6	{0} を押してみてください	0=Tab key
 ACCESSIBILITY_TUTORIAL_HOGGER_6_7	最初の選択肢、先ほど引いたミニオンに移動しました。このミニオンを召喚できます	
 ACCESSIBILITY_TUTORIAL_HOGGER_6_8	もう一度 {0} を押してみましょう	0=Tab key
 ACCESSIBILITY_TUTORIAL_HOGGER_6_9	次の選択肢、前のターンで召喚したミニオンが選ばれました。このミニオンで攻撃できます	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_10	You can always use {0} to go through your valid options, so make sure to remember this key!	0=key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_12	Alright. Let's begin by summoning the minion we just got	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_12_HELP	Use {0} or {1} and {2} to summon your minion	0=Tab key 1=c key 2=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_13	Let's try to attack with our other minion now	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_13_HELP	Use {0} or {1} to find your minion and {2} to launch an attack	0=Tab key 1=b key 2=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_14	You now have another choice to make. You can either attack one of your opponent's minions, or your opponent's hero himself	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_15	You can either use {0} to go through your valid targets or select your target directly using {1} or {2}	0=Tab key 1=g key 2=f key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_16	Go ahead and choose a target to attack	
-ACCESSIBILITY_TUTORIAL_HOGGER_6_16_HELP	Use {0} and {1} to launch an attack	0=Tab key 1=Enter key
-ACCESSIBILITY_TUTORIAL_HOGGER_6_21	We're ready to end our turn!	
-ACCESSIBILITY_TUTORIAL_HOGGER_8_1	I'll let you continue playing by yourself. Just let me know if you need anything	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_10	{0} を使って、今打てる手をいつでも選ぶことができます。このコマンドを覚えておきましょう！	0=key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_12	それでは、今引いたミニオンを召喚しましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_12_HELP	{0} または {1} を押して、 そのあと {2} でミニオンを召喚しましょう	0=Tab key 1=c key 2=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_13	自分のほかのミニオンでも攻撃してみましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_13_HELP	{0} または {1} で自分のミニオンを見つけて、 {2} で攻撃を指示します	0=Tab key 1=b key 2=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_14	またいくつかの選択肢が出てきました。 相手のミニオンのどれかを攻撃するか、相手のヒーロー自身を攻撃するかです	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_15	{0} を使って選択可能な対象を移動するか、 {1} や {2} を使って直接大賞を選びます	0=Tab key 1=g key 2=f key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_16	攻撃する対象を選びましょう	
+ACCESSIBILITY_TUTORIAL_HOGGER_6_16_HELP	{0} と {1} で攻撃を指示します	0=Tab key 1=Enter key
+ACCESSIBILITY_TUTORIAL_HOGGER_6_21	ターンを終了して大丈夫です！	
+ACCESSIBILITY_TUTORIAL_HOGGER_8_1	この先は、自分でプレイしてみましょう。なにか困ったことがあったら教えてください！	
 
-ACCESSIBILITY_TUTORIAL_MILLHOUSE_SEE_MANA_HELP	Press {0} at any time to see how much mana you have	0=a key
+ACCESSIBILITY_TUTORIAL_MILLHOUSE_SEE_MANA_HELP	{0} で、どれぐらいのマナが残っているかをいつでも確認できます	0=a key
 
-ACCESSIBILITY_TUTORIAL_CHO_1	This Voodoo Doctor healed your opponent's Hero	
-ACCESSIBILITY_TUTORIAL06_HELP_02	When minions fight each other, they both take damage	
+ACCESSIBILITY_TUTORIAL_CHO_1	この『ヴードゥーの呪術医』が、相手のヒーローを回復させました	
+ACCESSIBILITY_TUTORIAL06_HELP_02	ミニオン同士が戦うとき、お互いが体力を消耗します	
 
-ACCESSIBILITY_TUTORIAL_MUKLA_START	In this game, you'll see some cards with abilities you haven't seen before	
-ACCESSIBILITY_TUTORIAL_MUKLA_START_B	If you run into something you don't understand when reading a card such as Charge or Taunt, press {0} to get more information	0=i key
-ACCESSIBILITY_TUTORIAL_MUKLA_START_C	Press {0} whenever you're ready to start	0=Enter key
-ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP	This gorilla your opponent just summoned has an ability named Taunt	
-ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP_B	Minions with Taunt must always be killed before you can attack anyone else	
-ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP_C	Taunt is an important ability as it can be used to protect your Hero	
+ACCESSIBILITY_TUTORIAL_MUKLA_START	このゲームから、今までには出てこなかったアビリティを持つカードが登場します	
+ACCESSIBILITY_TUTORIAL_MUKLA_START_B	カードを読んだとき、『突撃』や『挑発』のような初めてのアビリティを見つけたら、 {0} を押して詳細を確認できます	0=i key
+ACCESSIBILITY_TUTORIAL_MUKLA_START_C	準備ができたら、 {0} を押してください	0=Enter key
+ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP	今相手が召喚したゴリラには、『挑発』というアビリティがあります。	
+ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP_B	『挑発』のアビリティを持つミニオンは、ほかの対象を攻撃する前に破壊しなければいけません	
+ACCESSIBILITY_TUTORIAL_MUKLA_TAUNT_HELP_C	自分のヒーローを守る盾になるので、『挑発』はとても重要なアビリティです。	
 
-ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP	From now on, your Hero and your opponent's Hero will normally have a Hero Power	
-ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP_B	Every Hero has its own Hero Power and you can use it once per turn	
-ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP_C	You can always press {0} to see your Hero Power and {1} to see your opponent's Hero Power	0=hero power key 1=opponent hero power key
+ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP	これからは、自分と相手のヒーローは、通常通りヒーローパワーを使えます	
+ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP_B	それぞれのヒーローには固有のヒーローパワーがあって、 1 ターンに 1 度だけ使うことができます	
+ACCESSIBILITY_TUTORIAL_HEMET_HERO_POWER_HELP_C	いつでも {0} で自分のヒーローパワー、 {1} で相手のヒーローパワーを選べます	0=hero power key 1=opponent hero power key
 
-ACCESSIBILITY_TUTORIAL05_HELP_03	This fight is totally not fair. Blame the terrible game designers	
-ACCESSIBILITY_TUTORIAL05_HELP_04	Your Taunt minions can protect you from attacks!	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP	It looks like your opponent equipped a weapon	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_B	Weapons are special cards which can be equipped by heroes	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_C	Each weapon has some attack and some durability	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_D	Once equipped, heroes can attack other characters during their turn	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_E	Your opponent equipped Warglaive of Azzinoth: a weapon with 2 attack and 2 durability	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_F	This means your opponent's Hero will have 2 attack during his turn, and will be able to attack any of your characters	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_G	Mages don't often use weapons, but you'll be able to play with some later on once you've unlocked other classes	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_H	You can press {0} at any time to see your weapon or {1} to see your opponent's one	0=weapon key 1=opponent weapon key
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_DURABILITY_HELP	Hear that sound? Weapons lose durability every time their Hero attacks	
-ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_DURABILITY_HELP_B	Once they reach 0 durability, they break and the Hero can no longer attack	
+ACCESSIBILITY_TUTORIAL05_HELP_03	この戦いは全くもってフェアではありません。文句はダメダメゲームデザイナーにお願いします	
+ACCESSIBILITY_TUTORIAL05_HELP_04	自分の『挑発』アビリティのミニオンは、攻撃から守ってくれます！	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP	相手は武器を装備したようです	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_B	武器は、ヒーローに装備できる特別なカードです	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_C	武器には、攻撃力と耐久力があります	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_D	武器を装備すると、そのターン、ヒーロー自身がほかのキャラクターを攻撃できるようになります	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_E	相手は、『アズィノスのウォーグレイヴ』を装備しました。 攻撃力は 2 で、耐久力は 2 です	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_F	つまり、相手のターンでは、彼自身が 2 の攻撃力を持っていて、キャラクターに攻撃することが可能です	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_G	メイジはあまり武器を使うことがありませんが、ほかのクラスを解放すれば、いくつか試せるようになるでしょう	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_EQUIPPED_HELP_H	いつでも {0} で自分の武器、 {1} で相手の武器を見られます	0=weapon key 1=opponent weapon key
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_DURABILITY_HELP	今の音がわかりましたか？ 武器の耐久力は、ヒーローが攻撃するたびに減っていきます	
+ACCESSIBILITY_TUTORIAL_ILLIDAN_WEAPON_DURABILITY_HELP_B	武器の耐久力が 0 になったら、その武器は破壊されて、ヒーローが攻撃することはできなくなります	
 
-ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME	Every normal game starts with the mulligan phase	
-ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_B	In this phase, both players can replace cards in their starting hand with random ones from their deck	
-ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_C	Use the arrow keys or {0} to go through your starting hand	0=Tab key
-ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_D	If you see a card you don't like, press {0} to mark it for replacement	0=Spacebar key
-ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_E	Once you've marked all cards you'd like to replace, press {0} to draw new ones and start the game	0=Enter key
+ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME	全ての通常ゲームは、マリガンフェイズから始まります	
+ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_B	このフェイズで、お互いのプレイヤーは、最初の手札をデッキ内のランダムな別のカードに入れ替えることができます	
+ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_C	矢印キー または {0} を使用して最初の手札を確認します	0=Tab key
+ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_D	気に入らないカードがあれば、 {0} を押してそのカードに交換マークを付けます	0=Spacebar key
+ACCESSIBILITY_IN_GAME_TUTORIAL_MULLIGAN_FIRST_TIME_E	交換したいカードにマークを付け終わったら、 {0} を押して新しいカードを引き直し、ゲームを開始します	0=Enter key
 
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGBUY_TUTORIAL_OVERRIDE	Use {0} and {1} to buy minions.	0=g key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGBUY_BODY_TUTORIAL_OVERRIDE	Use {0} and {1} to buy minions for 3 Gold. Build up an army to take down your enemies!	0=g key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGSELL_TUTORIAL_OVERRIDE	Use {0} and {1} to sell minions.	0=b key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGSELL_BODY_TUTORIAL_OVERRIDE	Use {0} and {1} to sell minions to your Bartender. It frees up space and you get 1 Gold for it!	0=b key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_MINION_MOVE_TUTORIAL_OVERRIDE	Use {0} and {1} to rearrange your minions	0=b key 1=Space key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_MINION_UPGRADE_TAVERN_TUTORIAL_OVERRIDE	Use {0} and {1} to upgrade your tavern	0=u key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_REFRESH_TUTORIAL_OVERRIDE	Use {0} and {1} to refresh your tavern and see new recruits	0=r key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_FREEZE_TUTORIAL_OVERRIDE	Use {0} and {1} to freeze minions and see them again next turn.	0=f key 1=Enter key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_READ_TIME_REMAINING	Press {0} to find how much time you have left to play!	e key
-ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_SUMMON_MINION_HELP	Use {0} and {1} to summon minions.	0=c key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGBUY_TUTORIAL_OVERRIDE	{0} と {1} を使用してミニオンを買います。	0=g key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGBUY_BODY_TUTORIAL_OVERRIDE	{0} と {1} を使用して、 3 ゴールドでミニオンを買います。 相手を倒すために、ミニオン軍団を組織しましょう！	0=g key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGSELL_TUTORIAL_OVERRIDE	{0} と {1} を使用してミニオンを売ります	0=b key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_DRAGSELL_BODY_TUTORIAL_OVERRIDE	{0} と {1} を使用して、バーテンダーにミニオンを売ります。 ミニオンを売るとスペースが解放され、 1 ゴールドを得ます！	0=b key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_MINION_MOVE_TUTORIAL_OVERRIDE	{0} と {1} を使用してミニオンを並べ替えます	0=b key 1=Space key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_MINION_UPGRADE_TAVERN_TUTORIAL_OVERRIDE	{0} と {1} を使用して、酒場をアップグレードします	0=u key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_REFRESH_TUTORIAL_OVERRIDE	{0} と {1} を使用して酒場をリフレッシュして、新しいrecruitを確認します	0=r key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_FREEZE_TUTORIAL_OVERRIDE	{0} と {1} を使用してミニオンを凍結させて、次のターンで再び見えるようにします	0=f key 1=Enter key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_READ_TIME_REMAINING	{0} を使用して、プレイに残された時間を確認します！	e key
+ACCESSIBILITY_BATTLEGROUNDS_TUTORIAL_SUMMON_MINION_HELP	{0} と {1} を使用してミニオンを召喚します。	0=c key 1=Enter key
 
-ACCESSIBILITY_INPUT_KEY_OVERRIDE_Return	Enter	Optional. Overrides the Return key to be read as Enter by TTS
+ACCESSIBILITY_INPUT_KEY_OVERRIDE_Return	エンター	Optional. Overrides the Return key to be read as Enter by TTS
 ACCESSIBILITY_INPUT_KEY_OVERRIDE_A	eh	Optional. Overrides the A key to be read as eh by TTS
 ACCESSIBILITY_INPUT_KEY_OVERRIDE_I	eye	Optional. Overrides the I key to be read as eye by TTS
