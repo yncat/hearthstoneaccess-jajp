@@ -448,56 +448,56 @@ ACCESSIBILITY_UI_CARD_LIST_POPUP_HELP	矢印キーを使用してカードを読みます
 ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_TITLE	報酬チェストポップアップ	
 ACCESSIBILITY_UI_CHEST_REWARD_DISPLAY_HELP	{0} を押して報酬チェストを開きます	0=Enter key
 
-ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_TITLE	You got {0} |4(reward package,reward packages)!	
-ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_HELP	Use the arrow keys and {0} to open your rewards	0=Enter key
+ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_TITLE	{0} つの報酬パッケージを獲得！	
+ACCESSIBILITY_UI_REWARD_BOXES_DISPLAY_HELP	矢印キーと {0} で報酬を開きます	0=Enter key
 
-ACCESSIBILITY_UI_QUEST_NO_NAME_XP_ONLY	{0} XP quest	0=xp rewarded by quest. Note: these quests don't have a name
-ACCESSIBILITY_UI_QUEST_REWARD_DESCRIPTION	Rewards {0}	0=rewards e.g. Rewards {2 cards and 1 card pack from recent expansions}
-ACCESSIBILITY_UI_QUEST_REWARD_CHOOSE_ONE_DESCRIPTION	Rewards 1 of {0}	0=possible rewards e.g. Rewards 1 of {2 card packs from recent expansions, 2 cards and 2 hero skins}
+ACCESSIBILITY_UI_QUEST_NO_NAME_XP_ONLY	{0} XPのクエスト	0=xp rewarded by quest. Note: these quests don't have a name
+ACCESSIBILITY_UI_QUEST_REWARD_DESCRIPTION	報酬は {0}	0=rewards e.g. Rewards {2 cards and 1 card pack from recent expansions}
+ACCESSIBILITY_UI_QUEST_REWARD_CHOOSE_ONE_DESCRIPTION	報酬は {0} の中から1つ選択	0=possible rewards e.g. Rewards 1 of {2 card packs from recent expansions, 2 cards and 2 hero skins}
 
-ACCESSIBILITY_UI_QUEST_LOG_NO_QUESTS	You don't have any quests	
-ACCESSIBILITY_UI_QUEST_LOG_ABANDON_QUEST	Press {0} to abandon	0=a key
-ACCESSIBILITY_UI_QUEST_LOG_REROLL_QUEST	Press {0} to reroll	0=r key
+ACCESSIBILITY_UI_QUEST_LOG_NO_QUESTS	クエストがありません	
+ACCESSIBILITY_UI_QUEST_LOG_ABANDON_QUEST	{0} で中断	0=a key
+ACCESSIBILITY_UI_QUEST_LOG_REROLL_QUEST	{0} で再開	0=r key
 
-ACCESSIBILITY_UI_TRACK_REWARD_LEVEL_UP	You've reached level {0}	0=track reward level e.g. You've reached level {3}
-ACCESSIBILITY_UI_TRACK_REWARD_XP_GAIN	You've gained {0} XP	0=XP gained e.g. You've gained {50} XP
-ACCESSIBILITY_UI_TRACK_REWARD_XP_GAIN_FROM_QUEST	You've gained {0} XP for completing a quest	0=xp rewarded by quest e.g. You've gained {1500} XP for completing a quest
+ACCESSIBILITY_UI_TRACK_REWARD_LEVEL_UP	レベル {0} に到達	0=track reward level e.g. You've reached level {3}
+ACCESSIBILITY_UI_TRACK_REWARD_XP_GAIN	{0} XPを獲得	0=XP gained e.g. You've gained {50} XP
+ACCESSIBILITY_UI_TRACK_REWARD_XP_GAIN_FROM_QUEST	クエストを完了して {0} XPを獲得	0=xp rewarded by quest e.g. You've gained {1500} XP for completing a quest
 
-ACCESSIBILITY_UI_RANK_CHANGE_UI_CURRENT_RANK	You are currently {0}	0=rank name e.g. You are currently Bronze 10
-ACCESSIBILITY_UI_RANK_CHANGE_UI_NEW_RANK	You are now {0}	0=rank name e.g. You are now Diamond 1
-ACCESSIBILITY_UI_RANK_CHANGE_UI_CURRENT_STARS	You have {0} out of {1} |4(star,stars)	0=current stars 1=star slots e.g. You have {1} out of {3} stars
-ACCESSIBILITY_UI_RANK_CHANGE_UI_EARNED_STARS	You've earned {0} |4(star,stars)	0=number of stars earned e.g. You've earned {1} star
-ACCESSIBILITY_UI_RANK_CHANGE_UI_LOST_STARS	You've lost {0} |4(star,stars)	0=number of stars lost e.g. You've lost {1} star
-ACCESSIBILITY_UI_RANK_CHANGE_UI_STAR_BONUS_MULT	Star bonus! Times {0}	0=star bonus e.g. Star bonus! Times {4}
-ACCESSIBILITY_UI_RANK_CHANGE_UI_WIN_STREAK_MULT	Win Streak bonus! Times {0}	0=win streak bonus e.g. Win Streak bonus! Times {2}
+ACCESSIBILITY_UI_RANK_CHANGE_UI_CURRENT_RANK	現在 {0}	0=rank name e.g. You are currently Bronze 10
+ACCESSIBILITY_UI_RANK_CHANGE_UI_NEW_RANK	現在 {0} になりました	0=rank name e.g. You are now Diamond 1
+ACCESSIBILITY_UI_RANK_CHANGE_UI_CURRENT_STARS	{0} / {1} スター	0=current stars 1=star slots e.g. You have {1} out of {3} stars
+ACCESSIBILITY_UI_RANK_CHANGE_UI_EARNED_STARS	{0} スターを獲得	0=number of stars earned e.g. You've earned {1} star
+ACCESSIBILITY_UI_RANK_CHANGE_UI_LOST_STARS	{0} スターが剥奪	0=number of stars lost e.g. You've lost {1} star
+ACCESSIBILITY_UI_RANK_CHANGE_UI_STAR_BONUS_MULT	スターボーナス! {0} 倍	0=star bonus e.g. Star bonus! Times {4}
+ACCESSIBILITY_UI_RANK_CHANGE_UI_WIN_STREAK_MULT	連勝ボーナス！ {0} 倍	0=win streak bonus e.g. Win Streak bonus! Times {2}
 
-ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_INCREASED	Your rating increased by {0}	0=rating increase e.g. Your rating increased by 50
-ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_DECREASED	Your rating decreased by {0}	0=rating decrease e.g. Your rating decreased by 50
-ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_NEW_RATING	Your rating is now {0}	0=new rating e.g. Your rating is now 1337
-ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_NO_CHANGE	Your rating is still {0}	0=rating e.g. Your rating is still 1337
-ACCESSIBILITY_UI_BATTLEGROUNDS_MULLIGAN_PLAYERS_READY	{0} out of {1} players ready	0=number of players ready 1=total number of players e.g. {5} out of {8} players ready
+ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_INCREASED	レーティングが {0} 上昇しました	0=rating increase e.g. Your rating increased by 50
+ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_DECREASED	レーティングが {0} 減少しました	0=rating decrease e.g. Your rating decreased by 50
+ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_CHANGE_NEW_RATING	レーティングが {0} になりました	0=new rating e.g. Your rating is now 1337
+ACCESSIBILITY_UI_BATTLEGROUNDS_RATING_NO_CHANGE	レーティングはまだ {0} です	0=rating e.g. Your rating is still 1337
+ACCESSIBILITY_UI_BATTLEGROUNDS_MULLIGAN_PLAYERS_READY	{1} 人中 {0} が準備完了	0=number of players ready 1=total number of players e.g. {5} out of {8} players ready
 
-ACCESSIBILITY_UI_REWARD_TYPE_REWARD_PACKAGE	Reward package	
-ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD_PACK	1 card pack	
-ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD	1 card	
-ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD_BACK	1 card back	
-ACCESSIBILITY_UI_REWARD_TYPE_ONE_MOUNT	1 mount	
-ACCESSIBILITY_UI_REWARD_TYPE_ONE_MINI_SET	1 mini-set	
-ACCESSIBILITY_UI_REWARD_TYPE_UNKNOWN	1 unknown reward	
-ACCESSIBILITY_UI_REWARD_N_TICKETS	{0} |4(ticket,tickets)	0=number of tickets
-ACCESSIBILITY_UI_REWARD_MINI_SET_WITH_N_CARDS	Mini-set with {0} cards	0=number of cards
-ACCESSIBILITY_UI_REWARD_N_ARCANE_ORBS	{0} arcane orbs	0=amount
-ACCESSIBILITY_UI_REWARD_N_ARCANE_DUST	{0} arcane dust	0=amount
-ACCESSIBILITY_UI_REWARD_N_CARD_PACKS	{0} |4(card pack,card packs)	0=amount
-ACCESSIBILITY_UI_REWARD_N_GOLD	{0} gold	0=amount
-ACCESSIBILITY_UI_REWARD_CARD_FROM_CLASS	{0} |4(copy,copies) of 1 {1} card	0=number of copies 1=class e.g. {2} copies of 1 {mage} card
-ACCESSIBILITY_UI_REWARD_CORE_CARD_FROM_CLASS	{0} |4(copy,copies) of 1 core {1} card	0=number of copies 1=class e.g. {2} copies of 1 core {mage} card
-ACCESSIBILITY_UI_REWARD_GOLDEN_HERO	Golden {0}	0=Hero name e.g. Golden Jaina Proudmoore
-ACCESSIBILITY_UI_REWARD_CLASS_HERO	{0} Hero	0=class e.g. Mage Hero
-ACCESSIBILITY_UI_REWARD_CLASS_UNLOCK_PROGRESS	{0} out of {1} Heroes unlocked	0=number of unlocked Heroes 1=total number of Heroes
-ACCESSIBILITY_UI_REWARD_CARD	{0} |4(,copies of 1) card	0=number of copies
-ACCESSIBILITY_UI_REWARD_N_HERO_SKINS	{0} |4(Hero skin,Hero skins)	0=amount
-ACCESSIBILITY_UI_REWARD_N_CARD_BACKS	{0} |4(Card back,Card backs)	0=amount
+ACCESSIBILITY_UI_REWARD_TYPE_REWARD_PACKAGE	報酬パッケージ	
+ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD_PACK	1 つのカードパック	
+ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD	1 枚のカード	
+ACCESSIBILITY_UI_REWARD_TYPE_ONE_CARD_BACK	1 つのカードバック	
+ACCESSIBILITY_UI_REWARD_TYPE_ONE_MOUNT	1 つのマウント	
+ACCESSIBILITY_UI_REWARD_TYPE_ONE_MINI_SET	1 つのミニセット	
+ACCESSIBILITY_UI_REWARD_TYPE_UNKNOWN	1 つの不明な報酬	
+ACCESSIBILITY_UI_REWARD_N_TICKETS	{0} 枚のチケット	0=number of tickets
+ACCESSIBILITY_UI_REWARD_MINI_SET_WITH_N_CARDS	{0} 枚のカードの入ったミニセット	0=number of cards
+ACCESSIBILITY_UI_REWARD_N_ARCANE_ORBS	{0} つのアーケインオーブ	0=amount
+ACCESSIBILITY_UI_REWARD_N_ARCANE_DUST	{0} のアーケインダスト	0=amount
+ACCESSIBILITY_UI_REWARD_N_CARD_PACKS	{0} つのカードパック	0=amount
+ACCESSIBILITY_UI_REWARD_N_GOLD	{0} ゴールド	0=amount
+ACCESSIBILITY_UI_REWARD_CARD_FROM_CLASS	{0} 枚の {1} カード	0=number of copies 1=class e.g. {2} copies of 1 {mage} card
+ACCESSIBILITY_UI_REWARD_CORE_CARD_FROM_CLASS	{0} 枚の {1} コアカード	0=number of copies 1=class e.g. {2} copies of 1 core {mage} card
+ACCESSIBILITY_UI_REWARD_GOLDEN_HERO	ゴールデン {0}	0=Hero name e.g. Golden Jaina Proudmoore
+ACCESSIBILITY_UI_REWARD_CLASS_HERO	{0} ヒーロー	0=class e.g. Mage Hero
+ACCESSIBILITY_UI_REWARD_CLASS_UNLOCK_PROGRESS	{0} / {1} のヒーローをアンロック済み	0=number of unlocked Heroes 1=total number of Heroes
+ACCESSIBILITY_UI_REWARD_CARD	{0} 枚	0=number of copies
+ACCESSIBILITY_UI_REWARD_N_HERO_SKINS	{0} つのヒーロースキン	0=amount
+ACCESSIBILITY_UI_REWARD_N_CARD_BACKS	{0} つのカードバック	0=amount
 ACCESSIBILITY_UI_REWARD_N_ARENA_TICKETS	{0} |4(Arena ticket,Arena tickets)	0=amount
 ACCESSIBILITY_UI_REWARD_N_RUNESTONES	{0} |4(Runestone,Runestones)	0=amount
 ACCESSIBILITY_UI_REWARD_N_ADVENTURES	{0} |4(Adventure,Adventures)	0=amount
