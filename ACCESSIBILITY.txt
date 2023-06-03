@@ -298,56 +298,56 @@ ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_PLAYER_BATTLEFIELD	1 枚の {0}
 ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_PLAYER_BATTLEFIELD	{0} が自分のバトルフィールドに召喚	0=card names e.g. {2 Murloc Raider} were summoned into your battlefield
 ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_OPPONENT_BATTLEFIELD	1 枚の {0} が相手のバトルフィールドに召喚	0=card name e.g. 1 {Murloc Raider} was summoned into your opponent's battlefield
 ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_OPPONENT_BATTLEFIELD	{0} が相手のバトルフィールドに召喚	0=card names e.g. {2 Murloc Raider} were summoned into your opponent's battlefield
-ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_TAKEN_CONTROL_BY_PLAYER	you took control of {0}	0=card names
-ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_TAKEN_CONTROL_BY_OPPONENT	your opponent took control of {0}	0=card names
+ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_TAKEN_CONTROL_BY_PLAYER	{0} のコントロールを奪取	0=card names
+ACCESSIBILITY_GAMEPLAY_DIFF_MOVEMENT_CARDS_TAKEN_CONTROL_BY_OPPONENT	相手は {0} のコントロールを奪取	0=card names
 
-ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_SPELL_DAMAGE	You gained {0} Spell Damage	0=spell damage
-ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_LOST_SPELL_DAMAGE	You lost {0} Spell Damage	0=spell damage
-ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_SPELL_DAMAGE	Your opponent gained {0} Spell Damage	0=spell damage
-ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_LOST_SPELL_DAMAGE	Your opponent lost {0} Spell Damage	0=spell damage
+ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_SPELL_DAMAGE	{0} スペルダメージを獲得	0=spell damage
+ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_LOST_SPELL_DAMAGE	{0} スペルダメージを消失	0=spell damage
+ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_SPELL_DAMAGE	相手は {0} スペルダメージを獲得	0=spell damage
+ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_LOST_SPELL_DAMAGE	相手は {0} スペルダメージを消失	0=spell damage
 
-ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_MANA	You gained {0} mana	0=amount
-ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_MANA	Your opponent gained {0} mana	0=amount
-ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_MANA_AND_EMPTY_MANA_CRYSTALS	You gained {0} mana and {1} |4(empty mana crystal,empty mana crystals)	0=mana gained 1=empty mana crystals gained
-ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_MANA_AND_EMPTY_MANA_CRYSTALS	Your opponent gained {0} mana and {1} |4(empty mana crystal,empty mana crystals)	0=mana gained 1=empty mana crystals gained
-ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_EMPTY_MANA_CRYSTALS	You gained {0} |4(empty mana crystal,empty mana crystals)	0=amount
-ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_EMPTY_MANA_CRYSTALS	Your opponent gained {0} |4(empty mana crystal,empty mana crystals)	0=amount
+ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_MANA	{0} マナを獲得	0=amount
+ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_MANA	相手は {0} マナを獲得	0=amount
+ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_MANA_AND_EMPTY_MANA_CRYSTALS	{0} マナと {1} 空のマナクリスタルを獲得	0=mana gained 1=empty mana crystals gained
+ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_MANA_AND_EMPTY_MANA_CRYSTALS	相手は {0} マナと {1} 空のマナクリスタルを獲得	0=mana gained 1=empty mana crystals gained
+ACCESSIBILITY_GAMEPLAY_DIFF_PLAYER_GAINED_EMPTY_MANA_CRYSTALS	{0} 空のマナクリスタルを獲得	0=amount
+ACCESSIBILITY_GAMEPLAY_DIFF_OPPONENT_GAINED_EMPTY_MANA_CRYSTALS	相手は {0} 空のマナクリスタルを獲得	0=amount
 
-ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_HERO_HELP	Press {0} to look at your hero	0=v key
-ACCESSIBILITY_GAMEPLAY_SEE_OPPONENT_HERO_HELP	Press {0} to look at your opponent's hero	0=f key
-ACCESSIBILITY_GAMEPLAY_READ_CARDS_HELP	Use the up and down arrow keys to read cards	
-ACCESSIBILITY_GAMEPLAY_CONFIRM_TO_ATTACK_TARGET	Press {0} to attack this target	0=Enter key
-ACCESSIBILITY_GAMEPLAY_PRESS_ENTER_TO_SUMMON_THIS_MINION	Press {0} to summon this minion	0=Enter key
-ACCESSIBILITY_GAMEPLAY_OPPONENT_TURN_VOICE	Your opponent is playing	
-ACCESSIBILITY_GAMEPLAY_CONFIRM_END_TURN_HELP	Press {0} or {1} to end your turn. Press any other key to cancel	0=enter key 1=e key
-ACCESSIBILITY_GAMEPLAY_SEE_VALID_OPTIONS	Use {0} to go through your valid options	0=tab key
-ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_HAND_HELP	Press {0} to look at your hand	0=c key
-ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_HAND_HELP	Press {0} to count the cards in your opponent's hand	0=Shift+c keys
-ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_MINIONS_HELP	Press {0} to look at your summoned minions	0=b key
-ACCESSIBILITY_GAMEPLAY_SEE_OPPONENT_MINIONS_HELP	Press {0} to look at your opponent's minions	0=g key
-ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_SECRETS_HELP	Press {0} to look at your secrets	0=s key
-ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_SECRETS_HELP	Press {0} to count your opponent's secrets	0=Shift+s keys
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_WEAPON_HELP	Press {0} to read your weapon	0=w key
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_WEAPON_HELP	Press {0} to read your opponent's weapon	0=Shift+w keys
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_HERO_POWER_HELP	Press {0} to read your hero power	0=r key
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_HERO_POWER_HELP	Press {0} to read your opponent's hero power	0=Shift+r keys
-ACCESSIBILITY_GAMEPLAY_COUNT_PLAYER_DECK_HELP	Press {0} to count the remaining cards in your deck	0=d key
-ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_DECK_HELP	Press {0} to count the remaining cards in your opponent's deck	0=Shift+d keys
-ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA_HELP	Press {0} to read your mana	0=a key
-ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_MANA_HELP	Press {0} to read your opponent's mana	0=Shift+a key
-ACCESSIBILITY_GAMEPLAY_READ_CARD_HELP	Use the up and down arrow keys to read this card	
-ACCESSIBILITY_GAMEPLAY_READ_CARD_TOOLTIP_HELP	Press {0} to get a description of this card's abilities	0=i key
-ACCESSIBILITY_GAMEPLAY_PLAY_CARD_HELP	Press {0} to play this card	0=Enter key
-ACCESSIBILITY_GAMEPLAY_TRADE_CARD_HELP	Press {0} to trade this card	0=t key
-ACCESSIBILITY_GAMEPLAY_SUMMON_MINION_HELP	Press {0} to summon this minion	0=Enter key
-ACCESSIBILITY_GAMEPLAY_CHOICE_MODE_HELP	Use the arrow keys to go through your options. Press {0} to choose one	0=Enter key
-ACCESSIBILITY_GAMEPLAY_CHOOSE_TARGET_HELP	Use {0} or the Zone keys to go through your targets. Press {1} to choose a target or {2} to cancel	0=Tab key 1=Enter key 2=Backspace key
-ACCESSIBILITY_GAMEPLAY_ATTACK_WITH_MINION_HELP	Press {0} to attack with this minion	0=Enter key
-ACCESSIBILITY_GAMEPLAY_ATTACK_WITH_HERO_HELP	Press {0} to attack with your hero	0=Enter key
-ACCESSIBILITY_GAMEPLAY_USE_HERO_POWER_HELP	Press {0} to use your hero power	0=Enter key
-ACCESSIBILITY_GAMEPLAY_READ_THROUGH_VALID_TARGETS	Use {0} to read through your valid targets	0=Tab key
-ACCESSIBILITY_GAMEPLAY_ATTACK_THIS_MINION_HELP	Press {0} to attack this minion	0=Enter key
-ACCESSIBILITY_GAMEPLAY_CANCEL_ATTACK_HELP	Press {0} to cancel the attack	0=Backspace key
+ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_HERO_HELP	{0} を押して自分のヒーローを確認します	0=v key
+ACCESSIBILITY_GAMEPLAY_SEE_OPPONENT_HERO_HELP	{0} を押して相手のヒーローを確認します	0=f key
+ACCESSIBILITY_GAMEPLAY_READ_CARDS_HELP	上下の矢印キーを使用してカードを読みます	
+ACCESSIBILITY_GAMEPLAY_CONFIRM_TO_ATTACK_TARGET	{0} を押してこの対象を攻撃します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_PRESS_ENTER_TO_SUMMON_THIS_MINION	{0} を押してこのミニオンを召喚します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_OPPONENT_TURN_VOICE	相手がプレイ中	
+ACCESSIBILITY_GAMEPLAY_CONFIRM_END_TURN_HELP	{0} または {1} を押して自分のターンを終了します。 キャンセルするには、別のキーを押します	0=enter key 1=e key
+ACCESSIBILITY_GAMEPLAY_SEE_VALID_OPTIONS	{0} を使用して、利用可能なオプション間を移動します	0=tab key
+ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_HAND_HELP	{0} を押して自分の手札を確認します	0=c key
+ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_HAND_HELP	{0} を押して相手の手札枚数を確認します	0=Shift+c keys
+ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_MINIONS_HELP	{0} を押して自分が召喚したミニオンを確認します	0=b key
+ACCESSIBILITY_GAMEPLAY_SEE_OPPONENT_MINIONS_HELP	{0} を押して相手のミニオンを確認します	0=g key
+ACCESSIBILITY_GAMEPLAY_SEE_PLAYER_SECRETS_HELP	{0} を押して自分のシークレットを確認します	0=s key
+ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_SECRETS_HELP	{0} を押して相手のシークレットを確認します	0=Shift+s keys
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_WEAPON_HELP	{0} を押して自分の武器を確認します	0=w key
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_WEAPON_HELP	{0} を押して相手の武器を確認します	0=Shift+w keys
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_HERO_POWER_HELP	{0} を押して自分のヒーローパワーを確認します	0=r key
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_HERO_POWER_HELP	{0} を押して相手のヒーローパワーを確認します	0=Shift+r keys
+ACCESSIBILITY_GAMEPLAY_COUNT_PLAYER_DECK_HELP	{0} を押して自分のデッキの残り枚数を確認します	0=d key
+ACCESSIBILITY_GAMEPLAY_COUNT_OPPONENT_DECK_HELP	{0} を押して相手のデッキの残り枚数を確認します	0=Shift+d keys
+ACCESSIBILITY_GAMEPLAY_READ_PLAYER_MANA_HELP	{0} を押して自分のマナを確認します	0=a key
+ACCESSIBILITY_GAMEPLAY_READ_OPPONENT_MANA_HELP	{0} を押して相手のマナを確認します	0=Shift+a key
+ACCESSIBILITY_GAMEPLAY_READ_CARD_HELP	上下の矢印キーを使用してこのカードを読みます	
+ACCESSIBILITY_GAMEPLAY_READ_CARD_TOOLTIP_HELP	{0} を押して、このカードのアビリティの説明を確認します	0=i key
+ACCESSIBILITY_GAMEPLAY_PLAY_CARD_HELP	{0} を押してこのカードをプレイします	0=Enter key
+ACCESSIBILITY_GAMEPLAY_TRADE_CARD_HELP	{0} を押してこのカードをトレードします	0=t key
+ACCESSIBILITY_GAMEPLAY_SUMMON_MINION_HELP	{0} を押してこのミニオンを召喚します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_CHOICE_MODE_HELP	矢印キーを使用してオプション間を移動します。 {0} を押して1つを選択します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_CHOOSE_TARGET_HELP	{0} またはゾーンキーを使用して対象間を移動します。 {1} を押してターゲットを選択します。 {2} でキャンセルします	0=Tab key 1=Enter key 2=Backspace key
+ACCESSIBILITY_GAMEPLAY_ATTACK_WITH_MINION_HELP	{0} を押して、このミニオンで攻撃します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_ATTACK_WITH_HERO_HELP	{0} を押して、自分のヒーローで攻撃します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_USE_HERO_POWER_HELP	{0} を押してヒーローパワーを使用します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_READ_THROUGH_VALID_TARGETS	{0} を使用して有効な対象を確認します	0=Tab key
+ACCESSIBILITY_GAMEPLAY_ATTACK_THIS_MINION_HELP	{0} を押してこのミニオンを攻撃します	0=Enter key
+ACCESSIBILITY_GAMEPLAY_CANCEL_ATTACK_HELP	{0} を押して攻撃をキャンセルします	0=Backspace key
 ACCESSIBILITY_GAMEPLAY_CANCEL_HELP	Press {0} to cancel	0=Backspace key
 ACCESSIBILITY_GAMEPLAY_SUMMONING_CHOOSE_POSITION_HELP	Use the left and right arrow keys to choose a position for this minion	
 ACCESSIBILITY_GAMEPLAY_OPEN_HISTORY_LOG_HELP	Press {0} to open the play history log	0=y key
