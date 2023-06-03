@@ -348,55 +348,55 @@ ACCESSIBILITY_GAMEPLAY_USE_HERO_POWER_HELP	{0} ‚ğ‰Ÿ‚µ‚Äƒq[ƒ[ƒpƒ[‚ğg—p‚µ‚Ü‚
 ACCESSIBILITY_GAMEPLAY_READ_THROUGH_VALID_TARGETS	{0} ‚ğg—p‚µ‚Ä—LŒø‚È‘ÎÛ‚ğŠm”F‚µ‚Ü‚·	0=Tab key
 ACCESSIBILITY_GAMEPLAY_ATTACK_THIS_MINION_HELP	{0} ‚ğ‰Ÿ‚µ‚Ä‚±‚Ìƒ~ƒjƒIƒ“‚ğUŒ‚‚µ‚Ü‚·	0=Enter key
 ACCESSIBILITY_GAMEPLAY_CANCEL_ATTACK_HELP	{0} ‚ğ‰Ÿ‚µ‚ÄUŒ‚‚ğƒLƒƒƒ“ƒZƒ‹‚µ‚Ü‚·	0=Backspace key
-ACCESSIBILITY_GAMEPLAY_CANCEL_HELP	Press {0} to cancel	0=Backspace key
-ACCESSIBILITY_GAMEPLAY_SUMMONING_CHOOSE_POSITION_HELP	Use the left and right arrow keys to choose a position for this minion	
-ACCESSIBILITY_GAMEPLAY_OPEN_HISTORY_LOG_HELP	Press {0} to open the play history log	0=y key
-ACCESSIBILITY_GAMEPLAY_READ_HISTORY_HELP	Use the up and down arrow keys to read the play history. Press {0} to close the history log	0=Backspace key
-ACCESSIBILITY_GAMEPLAY_END_TURN_HELP	Press {0} to end your turn	0=e key
+ACCESSIBILITY_GAMEPLAY_CANCEL_HELP	{0} ‚ÅƒLƒƒƒ“ƒZƒ‹‚µ‚Ü‚·	0=Backspace key
+ACCESSIBILITY_GAMEPLAY_SUMMONING_CHOOSE_POSITION_HELP	¶‰E‚Ì–îˆóƒL[‚ğg—p‚µ‚ÄA‚±‚Ìƒ~ƒjƒIƒ“‚ÌˆÊ’u‚ğ‘I‘ğ‚µ‚Ü‚·	
+ACCESSIBILITY_GAMEPLAY_OPEN_HISTORY_LOG_HELP	{0} ‚ÅƒvƒŒƒC‚ÌƒƒO‚ğŠJ‚«‚Ü‚·	0=y key
+ACCESSIBILITY_GAMEPLAY_READ_HISTORY_HELP	ã‰º‚Ì–îˆóƒL[‚ğg—p‚µ‚ÄƒvƒŒƒC—š—ğ‚ğ‰{——‚µ‚Ü‚·B {0} ‚ğ‰Ÿ‚µ‚ÄƒƒO‚ğ•Â‚¶‚Ü‚·	0=Backspace key
+ACCESSIBILITY_GAMEPLAY_END_TURN_HELP	{0} ‚ğ‰Ÿ‚µ‚Äƒ^[ƒ“‚ğI—¹‚µ‚Ü‚·	0=e key
 
-ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_EMPTY	Nothing has been played yet	
-ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_ENTRY_FORMAT	{2} ; {0} of {1}	0=current entry 1=number of entries 2=entry e.g. {5} of {7} {your Hero took 5 damage}
-ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_CLOSE	Stopped reading history	
+ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_EMPTY	‚Ü‚¾‚È‚É‚àƒvƒŒƒC‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	
+ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_ENTRY_FORMAT	{2} ; {0}‚Ì{1}	0=current entry 1=number of entries 2=entry e.g. {5} of {7} {your Hero took 5 damage}
+ACCESSIBILITY_GAMEPLAY_HISTORY_LOG_CLOSE	—š—ğ‚Ì‰{——‚ğI—¹‚µ‚Ü‚µ‚½	
 
-ACCESSIBILITY_GAMEPLAY_SPECIAL_STARTING_PLAYER_BATTLEFIELD	Your battlefield starts with {0}	0=starting cards e.g. Your battlefield starts with {4 Gates of Theramore}
-ACCESSIBILITY_GAMEPLAY_SPECIAL_STARTING_OPPONENT_BATTLEFIELD	Your opponent's battlefield starts with {0}	0=starting cards e.g. Your opponent's battlefield starts with {1 Vicious Bear Trap}
+ACCESSIBILITY_GAMEPLAY_SPECIAL_STARTING_PLAYER_BATTLEFIELD	©•ª‚Ìƒoƒgƒ‹ƒtƒB[ƒ‹ƒh‚É {0} ‚ª‚ ‚éó‘Ô‚ÅŠJn‚µ‚Ü‚·	0=starting cards e.g. Your battlefield starts with {4 Gates of Theramore}
+ACCESSIBILITY_GAMEPLAY_SPECIAL_STARTING_OPPONENT_BATTLEFIELD	‘Šè‚Ìƒoƒgƒ‹ƒtƒB[ƒ‹ƒh‚É {0} ‚ª‚ ‚éó‘Ô‚ÅŠJn‚µ‚Ü‚·	0=starting cards e.g. Your opponent's battlefield starts with {1 Vicious Bear Trap}
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_TIER	Tier {0}	0=card tier
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_COST	{0} gold	0=card cost
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_RECRUIT_PHASE_START_DESCRIBE	Tavern tier {0} and {1} gold	0=tavern tier 1=amount of gold when recruit phase starts e.g. Tavern tier 2 and 5 gold
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE	You face a tier {0} {1} with {2} health and {3} |4(minion,minions)	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions e.g. You face a tier 3 Chenvaala with 30 Health and 5 minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_INCLUDE_ARMOR	You face a tier {0} {1} with {2} health, {4} armor and {3} |4(minion,minions)	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions 4=opponent's armor e.g. You face a tier 3 Chenvaala with 30 Health, 2 armor and 5 minions
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_AGAINST_DEAD_PLAYER	You face {0}	0=Kel'Thuzad i.e. dead player with 0 health e.g. You face {Kel'Thuzad}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD_CURRENT_AND_TOTAL	You have {0} out of {1} gold	0=current gold 1=total gold
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD	You have {0} gold	0=current and total gold
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_REMAINING_GOLD	{0} gold remaining	0=amount e.g. {3} gold remaining
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_ZONE_MINIONS_FOR_SALE	Minions for sale	Read when you press g in the recruit phase
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_SEE_ZONE_MINIONS_FOR_SALE_EMPTY	No minions for sale	
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_BUY_MINION	Buy {0}?	0=minion name e.g. Buy Tarecgosa?
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_SELL_MINION	Sell {0}?	0=minion name e.g. Sell Tarecgosa?
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_FREEZE_TAVERN	Freeze tavern?	
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_FREEZE_TAVERN_FOR_N_GOLD	Freeze tavern for {0} gold?	0=amount e.g. Freeze tavern for 1 gold?
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_UNFREEZE_TAVERN	Unfreeze tavern?	
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_REFRESH_TAVERN_FOR_N_GOLD	Refresh tavern for {0} gold?	0=amount e.g. Refresh tavern for 1 gold?
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_UPGRADE_TAVERN_FOR_N_GOLD	Upgrade tavern for {0} gold?	0=amount e.g. Upgrade tavern for 3 gold?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_TIER	ƒeƒBƒA {0}	0=card tier
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_CARD_COST	{0} ƒS[ƒ‹ƒh	0=card cost
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_RECRUIT_PHASE_START_DESCRIBE	ƒ^ƒo[ƒ“EƒeƒBƒA {0} A {1} ƒS[ƒ‹ƒh	0=tavern tier 1=amount of gold when recruit phase starts e.g. Tavern tier 2 and 5 gold
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE	ƒeƒBƒA {0} ‚Ì {1} ‚Æ‘Îí‚µ‚Ü‚·B ‘Šè‚Ì‘Ì—Í‚Í {2} A ƒ~ƒjƒIƒ“‚Ì”‚Í {3}	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions e.g. You face a tier 3 Chenvaala with 30 Health and 5 minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_INCLUDE_ARMOR	ƒeƒBƒA {0} ‚Ì {1} ‚Æ‘Îí‚µ‚Ü‚·B ‘Šè‚Ì‘Ì—Í‚Í {2} A ‘•b‚Í {4} A ƒ~ƒjƒIƒ“‚Ì”‚Í {3} ‘Ì	0=opponent's tavern tier 1=opponent's Hero 2=opponent's Hero health 3=number of opponent minions 4=opponent's armor e.g. You face a tier 3 Chenvaala with 30 Health, 2 armor and 5 minions
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_START_DESCRIBE_AGAINST_DEAD_PLAYER	{0} ‚Æ‘Îí‚µ‚Ü‚·	0=Kel'Thuzad i.e. dead player with 0 health e.g. You face {Kel'Thuzad}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD_CURRENT_AND_TOTAL	ƒS[ƒ‹ƒh‚Í {0} / {1}	0=current gold 1=total gold
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_PLAYER_GOLD	ƒS[ƒ‹ƒh‚Í {0}	0=current and total gold
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_READ_REMAINING_GOLD	c‚è {0} ƒS[ƒ‹ƒh	0=amount e.g. {3} gold remaining
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_ZONE_MINIONS_FOR_SALE	”Ì”„’†‚Ìƒ~ƒjƒIƒ“	Read when you press g in the recruit phase
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_SEE_ZONE_MINIONS_FOR_SALE_EMPTY	”Ì”„’†‚Ìƒ~ƒjƒIƒ“‚Í‚¢‚Ü‚¹‚ñ	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_BUY_MINION	{0} ‚ğ”ƒ‚¢‚Ü‚·‚©H	0=minion name e.g. Buy Tarecgosa?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_SELL_MINION	{0} ‚ğ”„‚è‚Ü‚·‚©H	0=minion name e.g. Sell Tarecgosa?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_FREEZE_TAVERN	ğê‚ğ“€Œ‹‚µ‚Ü‚·‚©H	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_FREEZE_TAVERN_FOR_N_GOLD	{0} ‚Åğê‚ğ“€Œ‹‚µ‚Ü‚·‚©H	0=amount e.g. Freeze tavern for 1 gold?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_UNFREEZE_TAVERN	ğê‚ğ“€Œ‹‰ğœ‚µ‚Ü‚·‚©H	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_REFRESH_TAVERN_FOR_N_GOLD	{0} ƒS[ƒ‹ƒh‚Åğê‚ğƒŠƒtƒŒƒbƒVƒ…‚µ‚Ü‚·‚©H	0=amount e.g. Refresh tavern for 1 gold?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_UPGRADE_TAVERN_FOR_N_GOLD	{0} ƒS[ƒ‹ƒh‚Åğê‚ğƒAƒbƒvƒOƒŒ[ƒh‚µ‚Ü‚·‚©H	0=amount e.g. Upgrade tavern for 3 gold?
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_TO_LAST_POSITION	Move to last position?	
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_TO_FIRST_POSITION	Move to first position?	
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_BETWEEN	Move between {0} and {1}?	Move between {Murloc Raider} and {Bloodfen Raptor}?
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_TO_LAST_POSITION	ÅŒã‚ÌˆÊ’u‚ÉˆÚ“®‚µ‚Ü‚·‚©H	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_TO_FIRST_POSITION	Å‰‚ÌˆÊ’u‚ÉˆÚ“®‚µ‚Ü‚·‚©H	
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_QUERY_MOVE_MINION_BETWEEN	{0} ‚Æ {1} ‚ÌŠÔ‚ÉˆÚ“®‚µ‚Ü‚·‚©H	Move between {Murloc Raider} and {Bloodfen Raptor}?
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_DEALT_DAMAGE	Dealt {0} damage to {1}	0=damage dealt 1=opponent Hero e.g. Dealt {10} damage to {Millhouse Manastorm}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TOOK_DAMAGE	Took {0} damage from {1}	0=damage taken 1=opponent Hero e.g. Took {10} damage from {Millhouse Manastorm}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TIED	Tied with {0}	0=opponent Hero e.g. Tied with {Millhouse Manastorm}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_DEALT_DAMAGE	{1} ‚É {0} ƒ_ƒ[ƒW‚ğ—^‚¦‚½	0=damage dealt 1=opponent Hero e.g. Dealt {10} damage to {Millhouse Manastorm}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TOOK_DAMAGE	{1} ‚©‚ç {0} ƒ_ƒ[ƒW‚ğó‚¯‚½	0=damage taken 1=opponent Hero e.g. Took {10} damage from {Millhouse Manastorm}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_LEADERBOARDS_PLAYER_STATS_TIED	{0} ‚Æˆø‚«•ª‚¯‚½	0=opponent Hero e.g. Tied with {Millhouse Manastorm}
 
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_TAVERN	1 {0} appeared in Bob's Tavern	0=card name e.g. 1 {Murloc Raider} appeared in Bob's Tavern
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_TAVERN	{0} appeared in Bob's Tavern	0=card name e.g. 1 {Murloc Raider} and 2 {Tarecgosa} appeared in Bob's Tavern
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_HAND	You got 1 {0}	0=card name e.g. You got 1 {Murloc Raider}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_HAND	You got {0}	0=card name e.g. You got 1 {Murloc Raider} and 1 {Tarecgosa}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_BARTENDER_ENTITY_FULL_NAME	Your bartender's {0}	0=entity name e.g. Your bartender's {Raid Leader}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_BARTENDER_ENTITY_FULL_NAME_IN_LIST	Your bartender's {0} {1}	0=ordinal number 1=entity name e.g. Your bartender's {second} {Raid Leader}
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_MINIONS	Your bartender's minions	e.g. {Your bartender's minions} took 2 damage
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_OTHER_BARTENDER_MINIONS	Your other bartender's minions	e.g. {Your other bartender's minions} took 2 damage
-ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_SAME_NAME_ENTITIES	Your bartender's {0} {1}	0=count 1=minion name e.g. Your bartender's {2} {Raid Leader}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_TAVERN	1 –‡‚Ì {0} ‚ªƒ{ƒu‚Ìğê‚É‰Á‚í‚Á‚½	0=card name e.g. 1 {Murloc Raider} appeared in Bob's Tavern
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_TAVERN	{0} ‚ªƒ{ƒu‚Ìğê‚É‰Á‚í‚Á‚½	0=card name e.g. 1 {Murloc Raider} and 2 {Tarecgosa} appeared in Bob's Tavern
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARD_ADDED_TO_HAND	1 –‡‚Ì {0} ‚ğŠl“¾	0=card name e.g. You got 1 {Murloc Raider}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_MOVEMENT_CARDS_ADDED_TO_HAND	{0} ‚ğŠl“¾	0=card name e.g. You got 1 {Murloc Raider} and 1 {Tarecgosa}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_BARTENDER_ENTITY_FULL_NAME	©•ª‚Ìƒo[ƒeƒ“ƒ_[‚Ì {0}	0=entity name e.g. Your bartender's {Raid Leader}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_BARTENDER_ENTITY_FULL_NAME_IN_LIST	©•ª‚Ìƒo[ƒeƒ“ƒ_[‚Ì {0} {1}	0=ordinal number 1=entity name e.g. Your bartender's {second} {Raid Leader}
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_MINIONS	©•ª‚Ìƒo[ƒeƒ“ƒ_[‚Ìƒ~ƒjƒIƒ“	e.g. {Your bartender's minions} took 2 damage
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_OTHER_BARTENDER_MINIONS	‚Ù‚©‚Ì©•ª‚Ìƒo[ƒeƒ“ƒ_[‚Ìƒ~ƒjƒIƒ“	e.g. {Your other bartender's minions} took 2 damage
+ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_DIFF_GROUP_BARTENDER_SAME_NAME_ENTITIES	©•ª‚Ìƒo[ƒeƒ“ƒ_[‚Ì {0} –‡‚Ì {1}	0=count 1=minion name e.g. Your bartender's {2} {Raid Leader}
 
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_PLAYER_WON	You won with {0} surviving |4(minion,minions)	e.g. You won with {2} surviving minions
 ACCESSIBILITY_BATTLEGROUNDS_GAMEPLAY_COMBAT_PHASE_ENDED_OPPONENT_WON	Your opponent won with {0} surviving |4(minion,minions)	e.g. Your opponent won with {2} surviving minions
