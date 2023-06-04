@@ -824,12 +824,12 @@ ACCESSIBILITY_MODES_ARENA	闘技場	For use in the modes menu
 ACCESSIBILITY_ARENA_TICKETS_COUNT	チケットは {0} 枚。	0 is number of tickets.
 ACCESSIBILITY_ACHIEVEMENT_CATEGORY_TITLE	カテゴリを選んでください:	
 ACCESSIBILITY_ACHIEVEMENT_CATEGORY_RECENT	最近完了:
-ACCESSIBILITY_ACHIEVEMENT_CATEGORY_ITEM	{0}: {2} 中 {1} 合計達成ポイント ({3}), {5} 個中 {4} 個の実績を達成	should be self explanatory, {0} is the category or subcategory name.
+ACCESSIBILITY_ACHIEVEMENT_CATEGORY_ITEM	{0}: {2} 中 {1} 合計実績ポイント ({3}), {5} 個中 {4} 個の実績を達成	should be self explanatory, {0} is the category or subcategory name.
 ACCESSIBILITY_ACHIEVEMENT_CLAIMABLE	交換可能:
 ACCESSIBILITY_ACHIEVEMENT_VIEW_TIER	ティア: {0} / {1}	0 is current tier, 1 is highest tier
 ACCESSIBILITY_ACHIEVEMENT_VIEW_PROGRESS	進捗: {1} 中 {0}	0 is current, 1 is how much is needed
 ACCESSIBILITY_ACHIEVEMENT_VIEW_CLAIM	実績を交換	
-ACCESSIBILITY_ACHIEVEMENT_VIEW_EARN	{0} 達成ポイントを獲得	0 is number of points
+ACCESSIBILITY_ACHIEVEMENT_VIEW_EARN	{0} 実績ポイントを獲得	0 is number of points
 ACCESSIBILITY_ACHIEVEMENT_COULD_NOT_CLAIM	実績を交換できませんでした。	
 ACCESSIBILITY_ACHIEVEMENT_LIST_HELP	左右の矢印キーを使用して実績を閲覧し、上下の矢印キーを使用して選択中の実績の詳細を読みます。 {0} を押して、交換可能な実績の交換を試みます。 {1} を押して前のメニューに戻ります。 {2} を押して、全ての実績の一覧と未完了の実績の一覧を切り替えます。	
 ACCESSIBILITY_ACHIEVEMENT_SHOWING_INCOMPLETE	{1} 個中 {0} 個の未完了の実績を表示中	
