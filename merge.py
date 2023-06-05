@@ -1,5 +1,8 @@
+# Original author: Yukio Nozawa (GitHub: @yncat)
+# MIT license
+# A script to handle hearthstone translation files
 # Merges the new keys to existing key.
-# format: key, text, description. Separated by tab.
+# format: key, text, description. Separated by a tab.
 # Usage: merge.py existing_file new_file
 # Directly updates existing_file with merged result.
 # Writes untranslated lines into stdout
