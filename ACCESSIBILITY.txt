@@ -35,7 +35,7 @@ ACCESSIBILITY_HUB_MAIN_MENU_TITLE	メインメニュー
 ACCESSIBILITY_HUB_MAIN_MENU_OPTION_GAME_MENU	いつでも {0} を押せばゲームメニューが開きます。 ここで試してみましょう！	0=Esc key
 ACCESSIBILITY_HUB_MAIN_MENU_OPTION_SOCIAL_MENU	いつでも {0} を押せばソーシャルメニューが開きます。ここで試してみましょう！	0=F4 key
 ACCESSIBILITY_HUB_MAIN_MENU_OPTION_HELP	迷ったときは、いつでも {0} を押してください。 視力によるサポートが必要になったら、いつでも {1} を押すことでアクセシビリティを無効にして、通常通りのマウス操作が可能になります。 終わったら、 {1} を押してアクセシビリティを再度有効にしてください	0=Esc key 1=F8 key
-ACCESSIBILITY_HUB_TAVERN_BRAWL_INACCESSIBLE	Hearthstone Access は、酒場のルールの現在のルールをまだサポートしていません。しばらくしてからやってみてください	
+ACCESSIBILITY_HUB_TAVERN_BRAWL_INACCESSIBLE	Hearthstone Access は、酒場の喧嘩の現在のルールをまだサポートしていません。しばらくしてからやってみてください	
 
 ACCESSIBILITY_GLOBAL_LOADING_GAME	ゲームを読み込み中	
 ACCESSIBILITY_GLOBAL_CLOSING_GAME	ゲームを終了しています	
@@ -524,7 +524,7 @@ ACCESSIBILITY_UI_REWARD_TYPE_UNKNOWN	1 つの不明な報酬
 ACCESSIBILITY_UI_REWARD_N_TICKETS	{0} 枚のチケット	0=number of tickets
 ACCESSIBILITY_UI_REWARD_MINI_SET_WITH_N_CARDS	{0} 枚のカードの入ったミニセット	0=number of cards
 ACCESSIBILITY_UI_REWARD_N_ARCANE_ORBS	{0} つのアーケインオーブ	0=amount
-ACCESSIBILITY_UI_REWARD_N_ARCANE_DUST	{0} のアーケインダスト	0=amount
+ACCESSIBILITY_UI_REWARD_N_ARCANE_DUST	{0} 魔素	0=amount
 ACCESSIBILITY_UI_REWARD_N_CARD_PACKS	{0} つのカードパック	0=amount
 ACCESSIBILITY_UI_REWARD_N_GOLD	{0} ゴールド	0=amount
 ACCESSIBILITY_UI_REWARD_CARD_FROM_CLASS	{0} 枚の {1} カード	0=number of copies 1=class e.g. {2} copies of 1 {mage} card
